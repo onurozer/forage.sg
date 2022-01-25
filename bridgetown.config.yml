@@ -21,6 +21,8 @@ template_engine: erb
 collections:
   recipes:
     output: true
+    sort_by: date descending
+    sort_direction: descending
 # Other options you might want to investigate:
 #
 # base_path: "/" # the subpath of your site, e.g. /blog
