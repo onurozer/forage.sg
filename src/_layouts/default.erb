@@ -5,6 +5,7 @@
   </head>
   <body class="<%= resource.data.layout %> <%= resource.data.page_class %>">
     <%# render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
+    <%= render "header", metadata: site.metadata %>
     <main>
       <%= yield %>
     </main>
