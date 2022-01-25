@@ -2,6 +2,7 @@
 layout: recipe
 title: Sourdough Discard Olive Oil Crackers
 slug: sourdough-discard-olive-oil-crackers
+description: The perfect companion to cheese plates
 date_published: 2020-07-01T09:00:00.000Z
 date_updated: 2020-12-12T21:21:32.000Z
 tags: Sourdough

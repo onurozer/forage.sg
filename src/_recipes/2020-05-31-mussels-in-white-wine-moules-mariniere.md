@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Mussels in White Wine (Moules Marinière)
+title: "Mussels in White Wine: Moules Marinière"
 slug: mussels-in-white-wine-moules-mariniere
 date_published: 2020-05-31T14:12:03.000Z
 date_updated: 2020-12-12T21:36:30.000Z

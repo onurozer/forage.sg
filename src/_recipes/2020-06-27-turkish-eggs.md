@@ -2,6 +2,7 @@
 layout: recipe
 title: Turkish Eggs
 slug: turkish-eggs
+description: Surprisingly delicious eggsplosion of flavours.
 date_published: 2020-06-27T09:00:00.000Z
 date_updated: 2020-12-12T21:21:10.000Z
 tags: Food

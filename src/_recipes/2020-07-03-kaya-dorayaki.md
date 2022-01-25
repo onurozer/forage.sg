@@ -2,6 +2,7 @@
 layout: recipe
 title: Kaya Dorayaki
 slug: kaya-dorayaki
+description: Japanese classic pancake with a Singaporean twist
 date_published: 2020-07-03T09:00:00.000Z
 date_updated: 2020-12-12T21:13:38.000Z
 tags: Food
