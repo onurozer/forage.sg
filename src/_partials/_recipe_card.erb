@@ -8,6 +8,9 @@
     <div class="p-6">
       <h3 class="font-extrabold font-heading text-lg"><%= recipe.data.title %></h3>
       <p class="tagline text-sm pb-2"><%= recipe.data.description %></p>
+      <% recipe.data.categories.each do |category| %>
+        <%= category %>
+      <% end %>
       <%# <div class="meta text-xs text-slate-500">
         {{tags separator=" &bull; "}}
         &bull; <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="MMM YYYY"}}</time>

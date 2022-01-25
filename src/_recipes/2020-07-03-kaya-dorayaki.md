@@ -5,7 +5,7 @@ slug: kaya-dorayaki
 description: Japanese classic pancake with a Singaporean twist
 date_published: 2020-07-03T09:00:00.000Z
 date_updated: 2020-12-12T21:13:38.000Z
-tags: Food
+categories: [Food, Dessert]
 ---
 
 The traditional dorayaki is a sweet Japanese treat made of azuki red bean paste sandwiched between two slices of fluffy honey pancakes. So with my obsession of all things pandan (the quintessential Asian vanilla), I thought of giving this popular Japanese snack my Singaporean twist.

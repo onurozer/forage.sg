@@ -5,8 +5,7 @@ slug: cheese-plate-guide
 description: Battle-tested lessons on putting together the ultimate cheese plates.
 date_published: 2020-07-08T19:00:00.000Z
 date_updated: 2020-12-12T21:14:55.000Z
-tags: Guides
-excerpt: Cheese plates are great because they are practical, they go perfectly with wine and they’re super tasty. This is the one guide you didn’t know you needed. Here are some battle-tested lessons I’ve distilled after years of putting together impromptu cheese plates.
+categories: Guides, Food
 ---
 
 Cheese plates are great because they are practical, they go perfectly with wine and they’re super tasty. This is the one guide you didn’t know you needed. Here are some battle-tested lessons I’ve distilled after years of putting together impromptu cheese plates.

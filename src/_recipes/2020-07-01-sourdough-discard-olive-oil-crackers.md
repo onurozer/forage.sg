@@ -5,7 +5,7 @@ slug: sourdough-discard-olive-oil-crackers
 description: The perfect companion to cheese plates
 date_published: 2020-07-01T09:00:00.000Z
 date_updated: 2020-12-12T21:21:32.000Z
-tags: Sourdough
+categories: [Sourdough, Snack]
 ---
 
 One of the biggest problems with maintaining a [sourdough starter](__GHOST_URL__/sourdough-starter-guide/) is what to do with all the discarded flour. This recipe solves this problem. These crackers also work perfectly with cheese plates, so much so that you may never buy crackers from a store again.
