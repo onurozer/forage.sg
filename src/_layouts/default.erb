@@ -3,7 +3,7 @@
   <head>
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body class="<%= resource.data.layout %> <%= resource.data.page_class %>">
+  <body class="<%= resource.data.layout %> <%= resource.data.page_class %> antialiased text-slate-900 bg-slate-50">
     <%# render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
     <%= render "header", metadata: site.metadata %>
     <main>

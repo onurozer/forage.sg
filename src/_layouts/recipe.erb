@@ -1,7 +1,35 @@
 ---
 layout: default
 ---
-<div class="prose">
-  <h1><%= resource.data.title %></h1>
-  <%= yield %>
-</div>
+<!-- Recipe -->
+<article>
+  <!-- Article Header -->
+  <header class="text-center">
+    <div class="max-w-4xl mx-auto">
+      <img class="w-full" 
+          src="/images/recipes/<%= resource.data.slug %>.jpeg" 
+          alt="" 
+          loading="lazy" />
+    </div>
+    <!-- Heading and Subtitle -->
+    <div class="py-12 px-6">
+      <h1 class="font-extrabold text-4xl font-heading" >
+        <%= resource.data.title %>
+      </h1>
+      <p class="tagline text-2xl max-w-3xl mx-auto mb-4">
+        <%= resource.data.description %>
+      </p>
+      <!-- Tags -->
+      <%# <ul class="tags mt-3 flex justify-center space-x-2 text-xs">
+          <li>{{> "tag"}}</li>
+        </ul>
+        <time class="" datetime="{{date format="YYYY-MM-DD"}}">
+          {{date format="D MMM YYYY"}}
+        </time>         %>
+    </div>
+  </header>
+  <!-- Article Content -->
+  <div class="max-w-2xl mx-auto prose prose-slate px-5 prose-img:mb-0 prose-ul:list-disc mb-12">
+    <%= yield %>
+  </div>
+</article>
