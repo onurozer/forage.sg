@@ -93,7 +93,7 @@ Bake for 25 minutes with the lid on. After 25 minutes, take the lid off, reduce 
 
 ## Tips & Tricks
 
-- Play around with introducing different flours in small quantities to experiment with  flavours. Whole wheat, rye, spelt are all great options. Keep in mind that each flour behaves and holds water differently.
+- Play around with introducing different flours in small quantities to experiment with flavours. Whole wheat, rye, spelt are all great options. Keep in mind that each flour behaves and holds water differently.
 - Resist the urge to add flour if the dough is sticky. Learn to love the dough the process.
 - During shaping, handle the dough as little and as quickly as possible.
 - Once you’re comfortable with the base recipe, consider adding dried fruits, seeds and nuts to expand your sourdough bread portfolio.
