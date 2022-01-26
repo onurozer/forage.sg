@@ -4,7 +4,7 @@ title: Sourdough Starter Guide
 slug: sourdough-starter-guide
 date_published: 2020-05-25T09:00:00.000Z
 date_updated: 2020-12-12T21:41:32.000Z
-tags: Sourdough, Guides
+tags: [Sourdough, Guides]
 ---
 
 Congratulations! You have decided to jump on the sourdough bandwagon. The first thing you’ll need is a sourdough “starter”, which technically is a natural yeast, but practically more like a [tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) that you have to keep alive. The easiest way to acquire a sourdough starter is to ask a friend who’s already baking to give you some. If you don’t have friends, however, you can always make it at home!

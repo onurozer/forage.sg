@@ -4,7 +4,7 @@ title: Sourdough Bread Guide
 slug: sourdough-bread-guide
 date_published: 2020-06-09T09:00:00.000Z
 date_updated: 2020-12-12T22:07:54.000Z
-tags: Sourdough, Guides
+tags: [Sourdough, Guides]
 ---
 
 A fresh sourdough out of the oven is a thing of beauty. The learning curve for working with sourdough is steep but rewarding. This is the article I wish I read when I started: it will save you time, but more importantly it will save you from sad, deflated dense breads. Ready? Here we go:
