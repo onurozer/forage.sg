@@ -1,26 +1,13 @@
-<article class="recipe-card bg-white w-full overflow-hidden shadow-sm shadow-slate-300 rounded-lg">
+<article class="recipe-card w-full">
   <a href="<%= recipe.relative_url %>">
     <!-- Feature Image -->
     <img class="w-full" 
           src="/images/recipes/<%= recipe.data.slug %>.jpeg" 
           alt="" 
           loading="lazy" />
-    <div class="p-6">
+    <div class="py-3">
       <h3 class="font-extrabold font-heading text-lg"><%= recipe.data.title %></h3>
       <p class="tagline text-sm pb-2"><%= recipe.data.description %></p>
-      <% recipe.data.categories.each do |category| %>
-        <%= category %>
-      <% end %>
-      <%# <div class="meta text-xs text-slate-500">
-        {{tags separator=" &bull; "}}
-        &bull; <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="MMM YYYY"}}</time>
-      </div> %>
-      <!--
-          <div class="tags mt-3 flex space-x-2 text-xs">
-            <span class="px-4 py-1 bg-gray-200 uppercase rounded-full">Brunch</span>
-            <span class="px-4 py-1 bg-gray-200 uppercase rounded-full">Turkish</span>
-          </div>
-          -->
     </div>
   </a>
 </article>
