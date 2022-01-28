@@ -12,7 +12,7 @@ This dish is called “Çılbır” (pronounced chill-brr) in Turkey. According 
 
 Surprisingly, the most popular egg dish in Turkey is actually [Menemen](<https://en.wikipedia.org/wiki/Menemen_(food)>), so I’m not exactly sure how Çılbır got the spotlight and ended up being called the “Turkish eggs” instead. I blame the food bloggers.
 
-The recipe calls for “Pul Biber” (Aleppo pepper flakes) which are hugely popular in Turkey, but the average chili flakes will also do fine.  It is for 2 people and takes about 15 mins.
+The recipe calls for “Pul Biber” (Aleppo pepper flakes) which are hugely popular in Turkey, but the average chili flakes will also do fine. It is for 2 people and takes about 15 mins.
 
 ## Ingredients
 
