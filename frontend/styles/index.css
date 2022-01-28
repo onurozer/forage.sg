@@ -6,3 +6,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  /* .recipe-details ul,
+  .recipe-details ol,
+  .recipe-details li {
+    @apply list-none pl-0 ml-0;
+  } */
+  .instructions ol {
+    counter-reset: item;
+  }
+  .instructions ol li:before {
+    white-space: pre;
+    @apply font-bold;
+    content: "Step " counter(item) "\A";
+    counter-increment: item;
+  }
+}
