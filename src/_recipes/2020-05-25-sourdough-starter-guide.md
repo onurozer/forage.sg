@@ -26,7 +26,17 @@ The fascinating thing about sourdough starter is that it occurs naturally when y
 ## The Process
 
 Pick a time of day for feedings and stick to it. Usually early morning or late evenings are great for feeding. Make sure to mix thoroughly, without leaving any flour on the sides of the glass jar.
-DayInstructionsDay 1Mix 100g dark rye flour and 125g water. Lightly cover with a cloth. Day 2Keep 75g starter and discard the rest, add 100g flour and 115g waterDay 3Keep 75g starter and discard the rest, add 100g flour and 100g waterDay 4Same as Day 3. You should start seeing some bubbling action by now.Day 5Same as Day 4. There may be liquid forming on top. Feel free to mix.Day 6Same as Day 5.Day 7+Keep 50g starter and discard the rest, add 100g flour and 100g water.![](__GHOST_URL__/content/images/2020/12/sourdough-starter-1-1.jpeg)Sourdough starter on the rise
+
+| Day    | Instructions                                                          |
+| ------ | --------------------------------------------------------------------- |
+| Day 1  | Mix 100g dark rye flour and 125g water. Lightly cover with a cloth.   |
+| Day 2  | Keep 75g starter and discard the rest, add 100g flour and 115g water  |
+| Day 3  | Keep 75g starter and discard the rest, add 100g flour and 100g water  |
+| Day 4  | Same as Day 3. You should start seeing some bubbling action by now.   |
+| Day 5  | Same as Day 4. There may be liquid forming on top. Feel free to mix.  |
+| Day 6  | Same as Day 5.                                                        |
+| Day 7+ | Keep 50g starter and discard the rest, add 100g flour and 100g water. |
+
 By now, your starter should be rising and falling predictably each day. It should smell pleasantly fruity and slightly alcoholic. From day 7 onwards, switch to a combination of 50% dark rye and 50% all purpose flour for daily feedings.
 
 ## Tips & Tricks

@@ -41,12 +41,30 @@ Another important concept is hydration, specifically the ratio of water to flour
 Finally, a key ingredient is “bread flour”, which has a protein content of minimum 12g and therefore able to build strength and hold its shape better than all purpose flour.
 
 The quantity below makes a reasonably sized bread for 2 people.
-WeightIngredientBaker’s Percentage400gBread Flour100%300gWater75%100gYeast ([Sourdough Starter](__GHOST_URL__/sourdough-starter-guide/))25%8gSalt2%
+
+| Day    | Instructions                                                          |
+| ------ | --------------------------------------------------------------------- |
+| Day 1  | Mix 100g dark rye flour and 125g water. Lightly cover with a cloth.   |
+| Day 2  | Keep 75g starter and discard the rest, add 100g flour and 115g water  |
+| Day 3  | Keep 75g starter and discard the rest, add 100g flour and 100g water  |
+| Day 4  | Same as Day 3. You should start seeing some bubbling action by now.   |
+| Day 5  | Same as Day 4. There may be liquid forming on top. Feel free to mix.  |
+| Day 6  | Same as Day 5.                                                        |
+| Day 7+ | Keep 50g starter and discard the rest, add 100g flour and 100g water. |
 
 ## Instructions
 
 As discussed above, the exact timing depends on a few factors such as maturity and amount of starter in the dough, the room temperature, etc. That said, the instructions below are a good guideline for starting in the morning and having the bread ready for dinner.
-TimeStepDescription11pmFeed StarterFeed your starter the night before baking7amAutolyseMix flour & water, keep covered for 45 mins7:45amMixAdd starter and salt, mix well, cover8amStretch and FoldStretch and folder every 20 minutes, 3 times9amBulk FermentationLet dough rest covered until bubbly2pm Bench RestLet rest for 30 minutes on the counter, uncovered2:20pmShapeShape into a boule or a batard2:30pmProofProof in proofing basket3:30pmPreheat Oven245c with the dutch oven inside4pmBake25min covered, 25 min uncovered5pmCoolRest on counter with air circulation7pmSliceSlice and eat, keep rest in freezer
+
+| Day    | Instructions                                                          |
+| ------ | --------------------------------------------------------------------- |
+| Day 1  | Mix 100g dark rye flour and 125g water. Lightly cover with a cloth.   |
+| Day 2  | Keep 75g starter and discard the rest, add 100g flour and 115g water  |
+| Day 3  | Keep 75g starter and discard the rest, add 100g flour and 100g water  |
+| Day 4  | Same as Day 3. You should start seeing some bubbling action by now.   |
+| Day 5  | Same as Day 4. There may be liquid forming on top. Feel free to mix.  |
+| Day 6  | Same as Day 5.                                                        |
+| Day 7+ | Keep 50g starter and discard the rest, add 100g flour and 100g water. |
 
 ## Recipe
 
