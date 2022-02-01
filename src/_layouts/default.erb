@@ -3,10 +3,10 @@
   <head>
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body class="antialiased bg-slate-100 text-slate-900 <%= resource.data.page_class %> <%= resource.data.layout %>">
+  <body class="antialiased bg-white text-slate-900 <%= resource.data.page_class %> <%= resource.data.layout %>">
     <%# render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
     <%= render "header", metadata: site.metadata %>
-    <main>
+    <main class=" max-w-7xl mx-auto">
       <%= yield %>
     </main>
     <%= render "footer", metadata: site.metadata %>

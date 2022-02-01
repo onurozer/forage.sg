@@ -1,11 +1,11 @@
-<article class="recipe-card w-full bg-slate-100">
+<article class="recipe-card w-full bg-white shadow-sm border border-slate-200">
   <a href="<%= recipe.relative_url %>">
     <!-- Feature Image -->
     <img class="w-full" 
           src="/images/recipes/<%= recipe.data.slug %>.jpeg" 
           alt="" 
           loading="lazy" />
-    <div class="p-5">
+    <div class="p-6">
       <h3 class="font-extrabold font-heading text-xl"><%= recipe.data.title %></h3>
       <p class="tagline text"><%= recipe.data.description %></p>
     </div>
