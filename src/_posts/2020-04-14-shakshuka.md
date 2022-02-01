@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Shakshuka
 slug: shakshuka
 date_published: 2020-04-14T18:37:31.000Z

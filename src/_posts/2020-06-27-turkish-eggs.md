@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Turkish Eggs
 slug: turkish-eggs
 description: Surprisingly delicious eggsplosion of flavours.

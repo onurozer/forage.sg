@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bruschetta
 slug: bruschetta
 date_published: 2020-06-05T09:00:00.000Z

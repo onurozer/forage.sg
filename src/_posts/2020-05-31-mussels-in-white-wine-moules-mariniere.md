@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mussels in White Wine: Moules Marinière"
 slug: mussels-in-white-wine-moules-mariniere
 date_published: 2020-05-31T14:12:03.000Z

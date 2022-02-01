@@ -1,5 +1,4 @@
 ---
-layout: post
 title: One-Pan Brunch
 slug: one-pan-brunch
 date_published: 2020-05-18T18:41:37.000Z

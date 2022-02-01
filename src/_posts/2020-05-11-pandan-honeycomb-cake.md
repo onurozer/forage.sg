@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pandan Honeycomb Cake
 slug: pandan-honeycomb-cake
 date_published: 2020-05-11T20:17:07.000Z

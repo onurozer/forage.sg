@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Ultimate Bloody Mary
 slug: ultimate-bloody-mary
 date_published: 2020-05-24T09:00:00.000Z

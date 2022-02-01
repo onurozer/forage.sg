@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kaya Dorayaki
 slug: kaya-dorayaki
 description: Japanese classic pancake with a Singaporean twist

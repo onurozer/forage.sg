@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Holiday in Cambodia
 slug: holiday-in-cambodia
 date_published: 2020-06-17T09:00:00.000Z
