@@ -1,7 +1,6 @@
 ---
-layout: recipe
+layout: post
 title: Espresso Martini
-slug: espresso-martini
 date_published: 2020-06-01T09:00:00.000Z
 date_updated: 2020-12-12T21:37:21.000Z
 tags: Cocktails

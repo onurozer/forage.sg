@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: Brown Sugar Banana Cake
 slug: brown-sugar-banana-cake
 date_published: 2020-05-22T21:00:00.000Z

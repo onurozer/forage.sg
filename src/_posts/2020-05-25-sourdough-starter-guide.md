@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: Sourdough Starter Guide
 slug: sourdough-starter-guide
 date_published: 2020-05-25T09:00:00.000Z

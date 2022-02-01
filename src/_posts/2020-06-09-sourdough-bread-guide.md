@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: Sourdough Bread Guide
 slug: sourdough-bread-guide
 description: This article will save you time, but more importantly will save you from deflated, sad looking bricks of bread.

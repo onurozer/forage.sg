@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: Thai Red Curry with Beef
 slug: thai-red-curry-with-beef
 date_published: 2020-06-03T09:00:00.000Z

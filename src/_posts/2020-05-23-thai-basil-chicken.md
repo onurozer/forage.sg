@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: Thai Basil Chicken
 slug: thai-basil-chicken
 date_published: 2020-05-23T15:48:48.000Z

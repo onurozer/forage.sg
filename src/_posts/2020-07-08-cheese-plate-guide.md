@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: Cheese Plate Guide
 slug: cheese-plate-guide
 description: Battle-tested lessons on putting together the ultimate cheese plates.

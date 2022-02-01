@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: The Weeknight Grilled Chicken
 slug: the-weeknight-grilled-chicken
 date_published: 2020-05-21T19:10:09.000Z

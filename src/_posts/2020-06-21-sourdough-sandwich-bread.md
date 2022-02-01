@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: post
 title: Sourdough Sandwich Bread
 slug: sourdough-sandwich-bread
 date_published: 2020-06-21T09:00:00.000Z
