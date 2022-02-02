@@ -1,16 +1,20 @@
 ---
 title: Sourdough Starter Guide
 slug: sourdough-starter-guide
-date_published: 2020-05-25T09:00:00.000Z
-date_updated: 2020-12-12T21:41:32.000Z
-tags: [Sourdough, Guides]
+description: Technically a natural yeast, practically a tamagotchi.
+duration: 7 days
+category: Bread
+tags:
+  - sourdough
+  - starter
+  - guide
 ---
 
 Congratulations! You have decided to jump on the sourdough bandwagon. The first thing you’ll need is a sourdough “starter”, which technically is a natural yeast, but practically more like a [tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) that you have to keep alive. The easiest way to acquire a sourdough starter is to ask a friend who’s already baking to give you some. If you don’t have friends, however, you can always make it at home!
 
 ## Background
 
-The fascinating thing about sourdough starter is that it occurs naturally when you mix water and flour and leave it on your counter. The bacteria in the air in your kitchen starts interacting with the mixture and consumes the sugars. This process creates carbon dioxide gas, which is why the starter visibly rises and falls each day.  With regular, daily “feedings” with fresh flour (food for yeast), the rising becomes stable and more predictable.
+The fascinating thing about sourdough starter is that it occurs naturally when you mix water and flour and leave it on your counter. The bacteria in the air in your kitchen starts interacting with the mixture and consumes the sugars. This process creates carbon dioxide gas, which is why the starter visibly rises and falls each day. With regular, daily “feedings” with fresh flour (food for yeast), the rising becomes stable and more predictable.
 
 ## The Tools
 

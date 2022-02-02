@@ -2,7 +2,12 @@
 title: Shakshuka
 slug: shakshuka
 description: "Eggs poached in spicy tomato sauce? Shut up and take my money!"
-tags: Food
+category: Brunch
+tags:
+  - eggs
+  - middleast
+servings: 2
+duration: 30 minutes
 ingredients:
   - 4 eggs
   - 3 tbsp of extra-virgin olive oil
@@ -36,8 +41,6 @@ This recipe is a very flexible, customize it to your heart’s content: There’
 <%= render "recipe_details", data: resource.data %>
 
 Don’t forget to serve it with crusty, toasted [sourdough bread](__GHOST_URL__/sourdough-bread-guide/), otherwise the shakshuka police will hunt you down and make you pay!
-
-This recipe below is for 2 normal people and takes about 30 minutes.
 
 ## Tips & Tricks
 

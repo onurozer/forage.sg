@@ -2,7 +2,12 @@
 title: Pandan Honeycomb Cake
 slug: pandan-honeycomb-cake
 description: Uniquely chewy and popular Vietnamese cake
-tags: Food
+category: Cakes
+tags:
+  - vietnamese
+  - pandan
+servings: 2-3
+duration: 20 mins to prepare, 45 mins to bake
 ingredients:
   - 100ml coconut milk
   - 100g sugar
@@ -26,8 +31,6 @@ instructions:
 This uniquely chewy and popular Vietnamese cake gets its name from the distinct honeycomb-like structure in its cross-section. The honeycomb is a result of expanding hot air tunnelling through the tapioca batter, yielding a texture that is fluffy and bouncy.
 
 You can make this cake with a number of flavours, but Pandan is the most common and by far the best complement to the coconut milk. When baked, Pandan fills the house with such a wonderful aroma that builds up the anticipation of a delicious afternoon snack.
-
-The recipe below serves 2-3 people, takes 20 mins to prepare and 45 mins to cook.
 
 <%= render "recipe_details", data: resource.data %>
 

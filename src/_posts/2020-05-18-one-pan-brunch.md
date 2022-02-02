@@ -2,9 +2,14 @@
 title: One-Pan Brunch
 slug: one-pan-brunch
 description: Perfect recipe for people who are hungry, lazy or both.
-tags: Food
+category: Brunch
+tags:
+  - food
+  - eggs
+  - mushrooms
+  - quick
 servings: 2
-duration: "20 minutes"
+duration: 20 minutes
 ingredients:
   - 2-3 bacon
   - 2-3 eggs
@@ -28,8 +33,6 @@ instructions:
 ---
 
 This recipe is perfect for people who are hungry, lazy or both! The ideal time to make this is Sunday mornings, although technically any day would work. The beauty of the recipe is that as far as ingredients are concerned, pretty much anything goes.
-
-The recipe is for 2 people and takes about 20 minutes.
 
 <%= render "recipe_details", data: resource.data %>
 
