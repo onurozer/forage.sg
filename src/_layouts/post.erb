@@ -19,20 +19,25 @@ layout: default
       <p class="tagline text-2xl max-w-3xl mx-auto mb-4">
         <%= resource.data.description %>
       </p>
-      <p class="tagline max-w-3xl mx-auto mb-4">
-        <%= resource.date %>
-      </p>
-      <!-- Tags -->
-      <%# <ul class="tags mt-3 flex justify-center space-x-2 text-xs">
+      <time class="tagline max-w-3xl mx-auto mb-4" datetime="<%= resource.date.strftime("%Y-%d-%m") %>"> <%= resource.date.strftime("%B %Y") %></time>
+    </time>
+  </p>
+  <p class="tagline max-w-3xl mx-auto mb-4">
+    <% unless resource.data.author.nil? %>
+      <%= site.metadata.authors[resource.data.author].name%>
+    <% end %>
+  </p>
+  <!-- Tags -->
+  <%# <ul class="tags mt-3 flex justify-center space-x-2 text-xs">
           <li>{{> "tag"}}</li>
         </ul>
         <time class="" datetime="{{date format="YYYY-MM-DD"}}">
           {{date format="D MMM YYYY"}}
         </time>         %>
-    </div>
-  </header>
-  <!-- Article Content -->
-  <div class="max-w-2xl mx-auto prose prose-slate prose-a:text-red-500 px-5 prose-img:mb-0 mb-12">
-    <%= yield %>
-  </div>
+</div>
+</header>
+<!-- Article Content -->
+<div class="max-w-2xl mx-auto prose prose-slate prose-a:text-red-500 px-5 prose-img:mb-0 mb-12">
+  <%= yield %>
+</div>
 </article>
