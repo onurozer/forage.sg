@@ -3,6 +3,7 @@ title: "Mussels in White Wine: Moules Marinière"
 slug: mussels-in-white-wine-moules-mariniere
 description: Decadent seafood dinner without the effort
 category: Food
+author: onur
 tags:
   - seafood
   - quick

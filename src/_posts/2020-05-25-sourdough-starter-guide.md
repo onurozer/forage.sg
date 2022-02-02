@@ -4,6 +4,7 @@ slug: sourdough-starter-guide
 description: Technically a natural yeast, practically a tamagotchi.
 duration: 7 days
 category: Bread
+author: onur
 tags:
   - sourdough
   - starter

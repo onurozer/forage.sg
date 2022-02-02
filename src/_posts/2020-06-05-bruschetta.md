@@ -5,6 +5,7 @@ description: "Nothing makes fresh tomatoes sing like a bruschetta!"
 servings: 2
 duration: 5 minutes
 category: Food
+author: audrey
 tags:
   - italian
   - appetizer

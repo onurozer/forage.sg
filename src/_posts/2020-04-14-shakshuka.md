@@ -3,6 +3,7 @@ title: Shakshuka
 slug: shakshuka
 description: "Eggs poached in spicy tomato sauce? Shut up and take my money!"
 category: Brunch
+author: onur
 tags:
   - eggs
   - middleast

@@ -3,6 +3,7 @@ title: Brown Sugar Banana Cake
 slug: brown-sugar-banana-cake
 description: "Is it a cake? Is it bread? Who cares... it's awesome."
 category: Cakes
+author: audrey
 tags:
   - banana
   - cake

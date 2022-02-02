@@ -3,6 +3,7 @@ title: Sourdough Bread Guide
 slug: sourdough-bread-guide
 description: This article will save you time, but more importantly it will save you from sad bricks of bread.
 category: Bread
+author: onur
 tags:
   - sourdough
   - guide

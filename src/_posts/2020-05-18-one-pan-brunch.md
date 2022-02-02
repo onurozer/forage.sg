@@ -3,6 +3,7 @@ title: One-Pan Brunch
 slug: one-pan-brunch
 description: Perfect recipe for people who are hungry, lazy or both.
 category: Brunch
+author: onur
 tags:
   - food
   - eggs

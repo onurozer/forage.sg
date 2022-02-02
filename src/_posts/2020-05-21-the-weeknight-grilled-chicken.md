@@ -3,6 +3,7 @@ title: The Weeknight Grilled Chicken
 slug: the-weeknight-grilled-chicken
 description: Crowd pleaser chicken for the lazy and the practical
 category: Food
+author: onur
 tags:
   - chicken
   - potato

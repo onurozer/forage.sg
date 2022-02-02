@@ -5,6 +5,7 @@ description: "Making Thai curry at home doesn’t have to be a daunting affair."
 servings: 2
 duration: 45 minutes
 category: Food
+author: audrey
 tags:
   - asian
   - thai

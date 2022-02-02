@@ -3,6 +3,7 @@ title: Thai Basil Chicken
 slug: thai-basil-chicken
 description: Quintessential street food from the gritty streets of Bangkok
 category: Food
+author: audrey
 tags:
   - chicken
   - asian

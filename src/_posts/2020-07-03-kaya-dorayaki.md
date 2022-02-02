@@ -3,6 +3,7 @@ title: Kaya Dorayaki
 slug: kaya-dorayaki
 description: Japanese pancake with a Singaporean twist
 category: Cakes
+author: audrey
 tags:
   - singapore
   - japan
