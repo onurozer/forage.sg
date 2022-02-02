@@ -27,9 +27,10 @@ The recipe is for 2 people and takes about 45-60 minutes.
 - 2 chicken legs
 - 3 tbsp olive oil, extra-virgin
 
-## Instructions
+instructions:
 
-1. Preheat your oven to 200c together with the cast-iron pan.
+- Preheat your oven to 200c together with the cast-iron pan.
+
 2. Gently massage the chicken with the spice mix, let it rest anywhere from 30 mins to 1 day depending on how much time you have.
 3. In another bowl, mix all vegetables with a bit of olive oil, salt and pepper
 4. Place your chicken in the middle of the pan, skin side down and vegetables on the side. Drizzle generously with the rest of the olive oil.

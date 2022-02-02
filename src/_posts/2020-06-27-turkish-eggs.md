@@ -13,7 +13,7 @@ Surprisingly, the most popular egg dish in Turkey is actually [Menemen](<https:/
 
 The recipe calls for “Pul Biber” (Aleppo pepper flakes) which are hugely popular in Turkey, but the average chili flakes will also do fine. It is for 2 people and takes about 15 mins.
 
-## Ingredients
+ingredients:
 
 - 300g yogurt, preferably Turkish (obviously)
 - 4 eggs
@@ -23,9 +23,10 @@ The recipe calls for “Pul Biber” (Aleppo pepper flakes) which are hugely pop
 - A few sprigs of dill or parsley, finely chopped
 - Salt and pepper to taste
 
-## Instructions
+instructions:
 
-1. Mix yogurt with garlic and a pinch of salt and stir with a fork. You can also warm the yogurt slightly over low heat using the [Bain-marie](https://en.wikipedia.org/wiki/Bain-marie) method.
+- Mix yogurt with garlic and a pinch of salt and stir with a fork. You can also warm the yogurt slightly over low heat using the [Bain-marie](https://en.wikipedia.org/wiki/Bain-marie) method.
+
 2. Poach eggs and set aside
 3. Heat butter in a saucepan with peppers and stir until butter is melted.
 4. Assemble into two plates starting with warm garlic yogurt, poached eggs and chili butter.

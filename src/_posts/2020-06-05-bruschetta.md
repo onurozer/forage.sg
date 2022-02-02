@@ -10,7 +10,7 @@ Nothing makes fresh tomatoes sing like a bruschetta! Even better, for a symphoni
 
 The recipe below takes 5 minutes and for 2 people.
 
-## Ingredients
+ingredients:
 
 - 2 large slices of [sourdough bread](__GHOST_URL__/sourdough-bread-guide/)
 - 20 cherry tomatoes, San Marzano tomatoes taste amazing if you can find it
@@ -19,9 +19,10 @@ The recipe below takes 5 minutes and for 2 people.
 - 2 tbsp extra virgin olive oil, preferably Italian
 - Pinch of sea salt
 
-## Instructions
+instructions:
 
-1. Slice cherry tomatoes into quarters, first across and then lengthwise and put into a mixing bowl.
+- Slice cherry tomatoes into quarters, first across and then lengthwise and put into a mixing bowl.
+
 2. Pick the sweet basil leaves off the main stem and shred them by hand into mixing bowl
 3. Mince 1 clove of garlic on a microplane or with a garlic press into mixing bowl
 4. Add 1 tbsp of olive into the mixing bowl and give the ingredients a gentle toss for an even distribution of garlic.

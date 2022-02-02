@@ -1,37 +1,37 @@
 ---
 title: One-Pan Brunch
 slug: one-pan-brunch
-date_published: 2020-05-18T18:41:37.000Z
-date_updated: 2020-12-12T21:45:09.000Z
+description: Perfect recipe for people who are hungry, lazy or both.
 tags: Food
+servings: 2
+duration: "20 minutes"
+ingredients:
+  - 2-3 bacon
+  - 2-3 eggs
+  - 1/2 can of baked beans
+  - 6-8 Swiss button mushrooms, quartered
+  - 2-3 tbsp olive oil
+  - A stalk of cherry tomatoes
+  - A splash of lemon juice
+  - A spoonful of parsley, finely minced
+  - Salt and pepper
+  - A pinch of cayenne pepper
+
+instructions:
+  - Cook bacon on a wide cast-iron skillet with a bit of olive oil, for a few minutes
+  - Add mushrooms with more olive oil, cook until they start to release water
+  - Add beans and reheat, for 3-5 mins
+  - Crack eggs in the middle of the pan, cook until whites are set, about 3-5 mins.
+  - Add tomatoes together with eggs, lightly grill
+  - Season mushrooms with lemon juice and parsley, eggs with cayenne pepper and everything except bacon with salt & pepper
+  - Serve directly on the pan!
 ---
 
 This recipe is perfect for people who are hungry, lazy or both! The ideal time to make this is Sunday mornings, although technically any day would work. The beauty of the recipe is that as far as ingredients are concerned, pretty much anything goes.
 
 The recipe is for 2 people and takes about 20 minutes.
 
-## Ingredients
-
-- 2-3 bacon
-- 2-3 eggs
-- 1/2 can of baked beans
-- 6-8 Swiss button mushrooms, quartered
-- 2-3 tbsp olive oil
-- A stalk of cherry tomatoes
-- A splash of lemon juice
-- A spoonful of parsley, finely minced
-- Salt and pepper
-- A pinch of cayenne pepper
-
-## Instructions
-
-1. Cook bacon on a wide cast-iron skillet with a bit of olive oil, for a few minutes
-2. Add mushrooms with more olive oil, cook until they start to release water
-3. Add beans and reheat, for 3-5 mins
-4. Crack eggs in the middle of the pan, cook until whites are set, about 3-5 mins.
-5. Add tomatoes together with eggs, lightly grill
-6. Season mushrooms with lemon juice and parsley, eggs with cayenne pepper and everything except bacon with salt & pepper
-7. Serve directly on the pan!
+<%= render "recipe_details", data: resource.data %>
 
 ## Tips & Tricks
 

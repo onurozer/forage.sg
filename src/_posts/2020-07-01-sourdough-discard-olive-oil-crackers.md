@@ -9,7 +9,7 @@ tags: Sourdough
 
 One of the biggest problems with maintaining a [sourdough starter](__GHOST_URL__/sourdough-starter-guide/) is what to do with all the discarded flour. This recipe solves this problem. These crackers also work perfectly with cheese plates, so much so that you may never buy crackers from a store again.
 
-## Ingredients
+ingredients:
 
 - 100g sourdough starter discard
 - 66g all purpose flour
@@ -18,9 +18,10 @@ One of the biggest problems with maintaining a [sourdough starter](__GHOST_URL__
 - 3g garlic powder
 - A pinch of coarse salt
 
-## Instructions
+instructions:
 
-1. Mix starter, flour, olive oil and herbs
+- Mix starter, flour, olive oil and herbs
+
 2. Knead for 4-6 minutes in a stand mixer or by hand, until the dough holds its shape
 3. Wrap the dough in cling wrap and refrigerate anywhere from 30 minutes to 24hrs.
 4. Preheat oven to 175c. Take out the dough and divide into four.

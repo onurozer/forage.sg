@@ -11,7 +11,7 @@ The traditional dorayaki is a sweet Japanese treat made of azuki red bean paste 
 
 The pancakes are made with pandan and coconut milk while the filling, what else, pandan kaya! It is without a doubt, gobsmackingly delicious! It’s so hard to resist “taste-testing” them as soon as they come off the pan. Don’t believe me? Try it for yourself!
 
-## Ingredients
+ingredients:
 
 - 1 cup all purpose flour 120g
 - 1/2 tsp baking soda
@@ -23,9 +23,10 @@ The pancakes are made with pandan and coconut milk while the filling, what else,
 - 2 tbsp of homemade pandan extract (if store bought, then add 1/8 tsp)
 - Kaya (coconut jam)
 
-## Instructions
+instructions:
 
-1. In a medium bowl, combine flour and baking soda
+- In a medium bowl, combine flour and baking soda
+
 2. In another mixing bowl, whisk eggs, sugar, pandan extract and honey mixture. Pour milk and coconut milk slowly into the egg mixture and continue whisking.
 3. Fold the dry ingredients into wet mixture and whisk to a smooth batter
 4. Heat up a lightly oiled non-stick pan at medium-low heat and when the pan is evenly heated, ladle the batter (about 1/8 cup) onto the middle of the pan, creating a nice round shape.

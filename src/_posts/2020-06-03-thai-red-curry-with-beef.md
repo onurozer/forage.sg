@@ -10,7 +10,7 @@ Making your own authentic Thai curry at home doesn’t have to be a daunting aff
 
 The recipe below is for 2 people takes about 45-60 minutes. To make the beef easier to slice, you can put it in the freezer for 15 minutes prior to cutting.
 
-## Ingredients
+ingredients:
 
 - 1 pack of Thai Red Curry Paste (from any Asian grocer)
 - 3 shallots or 1 red onion
@@ -27,9 +27,10 @@ The recipe below is for 2 people takes about 45-60 minutes. To make the beef eas
 - 2 tbsp vegetable oil
 - Handful of Thai basil leaves or curry leaves
 
-## Instructions
+instructions:
 
-1. Roughly dice the shallots and garlic, and pound to a paste in a mortar.
+- Roughly dice the shallots and garlic, and pound to a paste in a mortar.
+
 2. Mix beef with onion-garlic paste, fish sauce and Thai Red Curry paste in a mixing bowl and marinate for at least an hour in the refrigerator, or overnight for a more tender and flavourful beef
 3. When you’re ready to cook, start by lightly bruising the lemongrass stalks with a pestle or the back of a knife to release the fragrant essential oils.
 4. Heat the vegetable oil in a heavy-bottom pot on medium high heat, throw in the lemongrass and fry it for a minute or two

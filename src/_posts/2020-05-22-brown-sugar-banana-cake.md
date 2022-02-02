@@ -9,7 +9,7 @@ Why is this sometimes called a cake and at other times called a bread? No one re
 
 The best part about this cake is its oh-so easy recipe with simply a whisk. The most difficult part? Waiting for those bananas to blacken for an even more aromatic bake!
 
-## Ingredients
+ingredients:
 
 - 160g all-purpose flour
 - 200g brown sugar
@@ -23,9 +23,10 @@ The best part about this cake is its oh-so easy recipe with simply a whisk. The 
 - 60ml canola oil or any other light oil
 - 3/4 tsp vanilla extract
 
-## Instructions
+instructions:
 
-1. Preheat oven to 180°C and place rack in the centre of the oven
+- Preheat oven to 180°C and place rack in the centre of the oven
+
 2. Brush the insides of a baking loaf tin with canola oil and set aside
 3. In a large mixing bowl, dry whisk together the flour, sugar, baking powder, baking soda and salt.
 4. In another large mixing bowl, whisk the eggs, mashed bananas, water, milk, oil and vanilla extract – in no particular order.

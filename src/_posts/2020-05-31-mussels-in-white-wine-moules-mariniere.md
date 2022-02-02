@@ -12,7 +12,7 @@ The star of this dish is the mussels, so make sure you get the freshest ones you
 
 The recipe is below is for 2 people and takes about 20 minutes to prepare.
 
-## Ingredients
+ingredients:
 
 - 1kg fresh mussels
 - 2 shallots, sliced, optional
@@ -25,9 +25,10 @@ The recipe is below is for 2 people and takes about 20 minutes to prepare.
 - 4 slices of [sourdough bread](sourdough bread)
 - Salt and pepper to season
 
-## Instructions
+instructions:
 
-1. Scrub and clean beards of mussels under cold running water, reserve in cold water with a pinch of salt
+- Scrub and clean beards of mussels under cold running water, reserve in cold water with a pinch of salt
+
 2. In a pot big enough for mussels, heat butter in medium-low heat and cook shallots and garlic until light brown, about 10 minutes
 3. Add wine, bring to a simmer
 4. Add mussels and close the lid. Cook for about 10 minutes, occasionally shaking the pot and stirring the mussels

@@ -12,7 +12,7 @@ Most sandwich breads use commercial yeast for speed and fluffiness, whereas this
 
 The recipe below takes about 4-6 hours and produces a standard (human) sized loaf.
 
-## Ingredients
+ingredients:
 
 - 240g all purpose flour
 - 120g bread flour
@@ -23,9 +23,10 @@ The recipe below takes about 4-6 hours and produces a standard (human) sized loa
 - 7g honey
 - 7g salt
 
-## Instructions
+instructions:
 
-1. Mix all ingredients and knead until smooth, about 8 minutes
+- Mix all ingredients and knead until smooth, about 8 minutes
+
 2. Stretch and fold 4 times every 30 minutes, for about 2 hours total
 3. Shape the dough into a log and transfer to an oiled [Pullman Loaf Pan](https://www.amazon.com/Cuisinart-AMB-9LP-Classic-Nonstick-Bakeware/dp/B0000ULZY0)
 4. Proof for 1-2 hours, until dough expands into a dome shape
