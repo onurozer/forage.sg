@@ -2,6 +2,7 @@
 date: 2020-05-22
 title: Brown Sugar Banana Cake
 slug: brown-sugar-banana-cake
+cloudinary_id: recipes/brown-sugar-banana-cake
 description: "Is it a cake? Is it bread? Who cares... it's awesome."
 category: Cakes
 author: audrey

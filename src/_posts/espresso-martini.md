@@ -2,6 +2,7 @@
 date: 2020-06-01
 title: Espresso Martini
 slug: espresso-martini
+cloudinary_id: recipes/espresso-martini
 description: The art of spiking innocent beverages with booze
 category: Cocktails
 author: onur

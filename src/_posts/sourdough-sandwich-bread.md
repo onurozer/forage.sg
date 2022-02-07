@@ -2,6 +2,7 @@
 date: 2020-06-21
 title: Sourdough Sandwich Bread
 slug: sourdough-sandwich-bread
+cloudinary_id: recipes/sourdough-sandwich-bread
 description: The most important American invention is the sandwich bread.
 servings: 1 loaf
 duration: 6 hours

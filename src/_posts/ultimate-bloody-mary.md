@@ -2,6 +2,7 @@
 date: 2020-05-24
 title: The Ultimate Bloody Mary
 slug: ultimate-bloody-mary
+cloudinary_id: recipes/ultimate-bloody-mary
 description: The most appropriate cocktail for raging hangovers.
 category: Cocktails
 ingredients:

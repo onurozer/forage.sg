@@ -2,9 +2,8 @@
   <a href="<%= recipe.relative_url %>">
     <!-- Feature Image -->
     <img class="w-full" 
-          src="/images/recipes/<%= recipe.data.slug %>.jpeg" 
-          alt="" 
-          loading="lazy" />
+          src="<%= cloudinary_url recipe.data.cloudinary_id, :small  %>"
+          alt="<%= recipe.data.title %>" />
     <div class="p-6">
       <h3 class="font-extrabold font-heading text-xl"><%= recipe.data.title %></h3>
       <p class="tagline text"><%= recipe.data.description %></p>

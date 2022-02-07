@@ -2,6 +2,7 @@
 date: 2020-05-25
 title: Sourdough Starter Guide
 slug: sourdough-starter-guide
+cloudinary_id: recipes/sourdough-starter-guide
 description: Technically a natural yeast, practically a tamagotchi.
 duration: 7 days
 category: Bread

@@ -2,6 +2,7 @@
 date: 2020-05-21
 title: The Weeknight Grilled Chicken
 slug: the-weeknight-grilled-chicken
+cloudinary_id: recipes/the-weeknight-grilled-chicken
 description: Crowd pleaser chicken for the lazy and the practical
 category: Food
 author: onur

@@ -2,6 +2,7 @@
 date: 2020-06-27
 title: Turkish Eggs
 slug: turkish-eggs
+cloudinary_id: recipes/turkish-eggs
 description: Surprisingly delicious eggsplosion of flavours.
 category: Brunch
 author: onur

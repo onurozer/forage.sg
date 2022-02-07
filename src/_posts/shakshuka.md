@@ -2,6 +2,7 @@
 date: 2020-04-14
 title: Shakshuka
 slug: shakshuka
+cloudinary_id: recipes/shakshuka
 description: "Eggs poached in spicy tomato sauce? Shut up and take my money!"
 category: Brunch
 author: onur

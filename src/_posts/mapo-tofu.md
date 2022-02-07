@@ -2,6 +2,7 @@
 date: 2020-05-28
 title: Mapo Tofu
 slug: mapo-tofu
+cloudinary_id: recipes/mapo-tofu
 description: Probably the best way to eat tofu.
 category: Food
 servings: 2

@@ -7,9 +7,8 @@ layout: default
   <header class="text-center">
     <div class="">
       <img class="w-full" 
-          src="/images/recipes/<%= resource.data.slug %>.jpeg" 
-          alt="<%= resource.data.title %>"
-          loading="lazy" />
+          src="<%= cloudinary_url resource.data.cloudinary_id %>"
+          alt="<%= resource.data.title %>" />
     </div>
     <!-- Heading and Subtitle -->
     <div class="py-12 px-6">

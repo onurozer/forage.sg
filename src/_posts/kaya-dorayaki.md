@@ -2,6 +2,7 @@
 date: 2020-07-03
 title: Kaya Dorayaki
 slug: kaya-dorayaki
+cloudinary_id: recipes/kaya-dorayaki
 description: Japanese pancake with a Singaporean twist
 category: Cakes
 author: audrey

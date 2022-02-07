@@ -2,6 +2,7 @@
 date: 2020-06-05
 title: Bruschetta
 slug: bruschetta
+cloudinary_id: recipes/bruschetta
 description: "Nothing makes fresh tomatoes sing like a bruschetta!"
 servings: 2
 duration: 5 minutes

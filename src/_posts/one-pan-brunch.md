@@ -2,6 +2,7 @@
 date: 2020-05-18
 title: One-Pan Brunch
 slug: one-pan-brunch
+cloudinary_id: recipes/one-pan-brunch
 description: Perfect recipe for people who are hungry, lazy or both.
 category: Brunch
 author: onur

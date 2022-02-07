@@ -2,6 +2,7 @@
 date: 2020-03-08
 title: Negroni
 slug: negroni
+cloudinary_id: recipes/negroni
 description: Negroni is easy to make, infinitely modifiable and goes perfectly any time of the day.
 category: Cocktails
 author: onur
