@@ -6,7 +6,7 @@ layout: default
 
 <% site.categories.keys.each do |category| %>
 
-  <div class="p-6 mb-6">
+  <div class="px-6 mb-6">
   <h2 class="text-4xl mb-6 text-center"><%= category.capitalize %></h2>
   <div class="recipe-list grid md:grid-cols-2 xl:grid-cols-3 gap-6">
   <% site.categories[category].each do |recipe| %>

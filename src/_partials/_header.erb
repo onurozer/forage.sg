@@ -1,9 +1,11 @@
-<header class="mb-12">
+<header class="">
   <!-- Logo -->
-  <div class="p-10 text-4xl font-heading text-center flex space-x-2 justify-center bg-white">
+  <div class="p-10 max-w-7xl mx-auto text-center">
     <a href="/" class="">
-      <span class=""><%= site.metadata.title %></span>. 
-      <span class=""><%= site.metadata.description %></span>
+      <div class="flex justify-center mb-2">
+        <img src="/images/logo.svg" alt="<%= site.metadata.title %>" class="w-36" />
+      </div>
+      <div class=""><%= site.metadata.description %></div>
     </a>
   </div>
   <!-- Navigation -->
