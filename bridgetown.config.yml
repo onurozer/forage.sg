@@ -23,7 +23,7 @@ collections:
   posts:
     permalink: simple
     sort_by: date
-    sort_direction: ascending
+    sort_direction: descending
 # Other options you might want to investigate:
 #
 # base_path: "/" # the subpath of your site, e.g. /blog
