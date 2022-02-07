@@ -36,4 +36,4 @@ The recipe calls for “Pul Biber” (Aleppo pepper flakes) which are hugely pop
 
 <%= render "recipe_details", data: resource.data %>
 
-This recipe goes perfectly with toasted [sourdough bread](__GHOST_URL__/sourdough-bread-guide/).
+This recipe goes perfectly with toasted <%= link_to "sourdough bread", "\_posts/sourdough-bread-guide.md" %>.

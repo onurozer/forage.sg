@@ -42,7 +42,7 @@ This recipe is a very flexible, customize it to your heart’s content: There’
 
 <%= render "recipe_details", data: resource.data %>
 
-Don’t forget to serve it with crusty, toasted [sourdough bread](__GHOST_URL__/sourdough-bread-guide/), otherwise the shakshuka police will hunt you down and make you pay!
+Don’t forget to serve it with crusty, toasted <%= link_to "sourdough bread", "\_posts/sourdough-bread-guide.md" %>, otherwise the shakshuka police will hunt you down and make you pay!
 
 ## Tips & Tricks
 

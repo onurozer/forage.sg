@@ -30,7 +30,7 @@ instructions:
   - Let the crackers cool completely on a wire rack before dividing into smaller pieces.
 ---
 
-One of the biggest problems with maintaining a [sourdough starter](__GHOST_URL__/sourdough-starter-guide/) is what to do with all the discarded flour. This recipe solves this problem. These crackers also work perfectly with cheese plates, so much so that you may never buy crackers from a store again.
+One of the biggest problems with maintaining a <%= link_to "sourdough starter", "\_posts/sourdough-starter-guide.md" %> is what to do with all the discarded flour. This recipe solves this problem. These crackers also work perfectly with cheese plates, so much so that you may never buy crackers from a store again.
 
 <%= render "recipe_details", data: resource.data %>
 

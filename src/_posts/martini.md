@@ -18,7 +18,7 @@ instructions:
   - Pour into a chilled martini glass and garnish with a single olive
 ---
 
-With only three ingredients, Martini is the quintessential test for any bartender’s skills, because it’s easy to learn yet difficult to master. The discerning gentleman always starts the evening or [lunch with a martini or three](https://en.wikipedia.org/wiki/Three-martini_lunch), since no cocktail comes even close in the aperatif department (well, except maybe the [negroni](__GHOST_URL__/negroni/)). Without further ado, here’s how you make a martini:
+With only three ingredients, Martini is the quintessential test for any bartender’s skills, because it’s easy to learn yet difficult to master. The discerning gentleman always starts the evening or [lunch with a martini or three](https://en.wikipedia.org/wiki/Three-martini_lunch), since no cocktail comes even close in the aperatif department (well, except maybe the <%= link_to "negroni", "\_posts/negroni.md" %>). Without further ado, here’s how you make a martini:
 
 <%= render "recipe_details", data: resource.data %>
 

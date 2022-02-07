@@ -28,11 +28,13 @@ Saucisson is the clear winner here, closely followed by prosciutto and jamón. C
 ## Fruits & Nuts
 
 The acidity in fruits help balance the fattiness of cheese. Always choose fruits that are fresh and in season. Grapes are the poster child of cheese plate fruits, but figs and peaches are amazing as well. In the nuts department, walnuts are always an excellent choice, followed by almonds and hazelnuts.
-![](__GHOST_URL__/content/images/2020/12/B10CEBC7-1CC7-4F65-A505-EEAE1E75892A.jpeg)Another impromptu cheese plate we put together with local produce from surrounding village shops while staying at [Two Rooms Hotel](http://www.2roomshotel.com/) inside the [Urla Vineyard](http://www.urlasarapcilik.com.tr/en-US) in Turkey.
+
+![](__GHOST_URL__/content/images/2020/12/B10CEBC7-1CC7-4F65-A505-EEAE1E75892A.jpeg)
+Another impromptu cheese plate we put together with local produce from surrounding village shops while staying at [Two Rooms Hotel](http://www.2roomshotel.com/) inside the [Urla Vineyard](http://www.urlasarapcilik.com.tr/en-US) in Turkey.
 
 ## Crackers & Bread
 
-The perfect companion to cheese is the [olive oil sourdough cracker](__GHOST_URL__/sourdough-discard-olive-oil-crackers/), but the good old [sourdough bread](__GHOST_URL__/sourdough-bread-guide/) would work too. Just don’t go _overboard_ with the bread (ba dum tss).
+The perfect companion to cheese is the <%= link_to "olive oil sourdough crackers", "_posts/sourdough-discard-olive-oil-crackers.md" %>, but the good old <%= link_to "sourdough bread", "_posts/sourdough-bread-guide.md" %> would work too. Just don’t go overboard with the bread (ba dum tss).
 
 ## Extras
 

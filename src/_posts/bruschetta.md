@@ -13,7 +13,7 @@ tags:
   - snack
   - tomatoes
 ingredients:
-  - 2 large slices of [sourdough bread](__GHOST_URL__/sourdough-bread-guide/)
+  - 2 large slices of sourdough bread
   - 20 cherry tomatoes, San Marzano tomatoes taste amazing if you can find it
   - 2 cloves of garlic
   - Handful of sweet basil leaves

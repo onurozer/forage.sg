@@ -35,4 +35,4 @@ If that sounds like your kind of jam, then you’ll surely love this recipe.
 
 <%= render "recipe_details", data: resource.data %>
 
-Kaya jam goes on practically anything you can dream of, but for a true “comfort food” experience, spread it on a [toasted bread](__GHOST_URL__/sourdough-sandwich-bread/) with a slab of butter on top for breakfast! The kaya jam should last 1-2 weeks in the fridge.
+Kaya jam goes on practically anything you can dream of, but for a true “comfort food” experience, spread it on a <%= link_to "toasted bread", "\_posts/sourdough-sandwich-bread.md" %> with a slab of butter on top for breakfast! The kaya jam should last 1-2 weeks in the fridge.

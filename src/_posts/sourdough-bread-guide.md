@@ -28,7 +28,7 @@ Faster fermentation results in lighter flavour. Slower, colder fermentation yiel
 Before you start, make sure you have the necessary tools. You can certainly try baking bread improvising with whatever tools you have at home, however, these will make your life much easier.
 
 - A digital scale, this is a must.
-- A stainless steel mixing bowl,  around 30cm in diameter
+- A stainless steel mixing bowl, around 30cm in diameter
 - [A plastic scraper](https://www.amazon.com/Ateco-1303-Bowl-Scraper/dp/B000KEUKO2) for scraping dough
 - A cast iron dutch oven. [Lodge Combo Cooker](https://www.amazon.com/Lodge-Cooker-Pre-seasoned-Skillet-Convertible/dp/B0009JKG9M) is fantastic for this purpose. [Le Creuset](http://www.lecreuset.com.sg/products/castiron/casseroles/round_french_oven#.XspTvC-w3UI) is a timeless classic but be prepared to spend, a lot.
 - [Kitchen towels](https://www.ikea.com/sg/en/p/tekla-tea-towel-white-red-10172798/)
@@ -81,7 +81,7 @@ This process is called the autolyse, and it helps the flour to slowly hydrate. T
 
 ### Mix
 
-Once the autolyse is complete, add the salt and the starter into your bowl and knead until the dough is relatively smooth, around for 6-8 minutes. There are a couple of   techniques such as “rubaud method” and “slap and fold” that you can research, but the good old kneading on the counter is sufficient for this recipe. Once the dough starts looking smooth, cover the bowl with a damp kitchen towel and let it rest for 20 minutes.
+Once the autolyse is complete, add the salt and the starter into your bowl and knead until the dough is relatively smooth, around for 6-8 minutes. There are a couple of techniques such as “rubaud method” and “slap and fold” that you can research, but the good old kneading on the counter is sufficient for this recipe. Once the dough starts looking smooth, cover the bowl with a damp kitchen towel and let it rest for 20 minutes.
 
 ### Stretch and Fold
 
