@@ -76,8 +76,7 @@ As discussed above, the exact timing depends on a few factors such as maturity a
 
 In a medium sized mixing bowl, mix flour and water, and knead into a shaggy dough. It will be slightly sticky and not exactly smooth. Then rest covered with a damp kitchen towel cloth for 45 minutes.
 
-This process is called the autolyse, and it helps the flour to slowly hydrate. This also helps the dough to gain strength by forming gluten bonds. Salt slows down gluten development, which is why it’s omitted at this stage.
-![](__GHOST_URL__/content/images/2020/12/sourdough-autolyse.jpeg)The dough looks like a shaggy mess during autolyse and it’s perfectly normal.
+This process is called the autolyse, and it helps the flour to slowly hydrate. This also helps the dough to gain strength by forming gluten bonds. Salt slows down gluten development, which is why it’s omitted at this stage. The dough looks like a shaggy mess during autolyse and it’s perfectly normal.
 
 ### Mix
 
@@ -91,9 +90,7 @@ To do this, lightly wet your hand and hold the dough from one side. Lift up and 
 
 ### Bulk Fermentation
 
-This is the main part of the process where nature does her magic and you can go do your errands. The yeast in the dough consumes the nutrients in the flour, expanding and rising the dough in the process.
-![](__GHOST_URL__/content/images/2020/12/sourdough-benchrest.jpeg)As the fermentation continues, the dough expands and little gas bubbles start to form.
-You’ll know when the dough has risen visibly (usually around 50%-70%) and has visible gas bubbles mostly around the edges.
+This is the main part of the process where nature does her magic and you can go do your errands. The yeast in the dough consumes the nutrients in the flour, expanding and rising the dough in the process. As the fermentation continues, the dough expands and little gas bubbles start to form. You’ll know when the dough has risen visibly (usually around 50%-70%) and has visible gas bubbles mostly around the edges.
 
 ### Bench Rest
 

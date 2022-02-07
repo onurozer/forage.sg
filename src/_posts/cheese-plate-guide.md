@@ -15,7 +15,8 @@ Cheese plates are great because they are practical, they go perfectly with wine 
 ## Board
 
 Board selection is a direct function of two parameters: size and fanciness. Black slates and wooden boards look great but hard to clean. Ceramic is practical but not particularly attractive. All said, even a hotel plate will do in a cheese plate emergency situation.
-![](__GHOST_URL__/content/images/2020/12/IMG_3269.jpeg)An aperitif hour with local cheese and wine selection at the [Woodlark hotel](https://woodlarkhotel.com/) in Portland, Oregon.
+![Cheese Plate](/images/cheese-plate-woodlark.jpeg)
+_An aperitif hour with local cheese and wine selection at the [Woodlark hotel](https://woodlarkhotel.com/) in Portland, Oregon._
 
 ## Cheese
 
@@ -29,12 +30,12 @@ Saucisson is the clear winner here, closely followed by prosciutto and jamón. C
 
 The acidity in fruits help balance the fattiness of cheese. Always choose fruits that are fresh and in season. Grapes are the poster child of cheese plate fruits, but figs and peaches are amazing as well. In the nuts department, walnuts are always an excellent choice, followed by almonds and hazelnuts.
 
-![](__GHOST_URL__/content/images/2020/12/B10CEBC7-1CC7-4F65-A505-EEAE1E75892A.jpeg)
-Another impromptu cheese plate we put together with local produce from surrounding village shops while staying at [Two Rooms Hotel](http://www.2roomshotel.com/) inside the [Urla Vineyard](http://www.urlasarapcilik.com.tr/en-US) in Turkey.
+![Cheese Plate](/images/cheese-plate-urla.jpeg)
+_Another impromptu cheese plate we put together with local produce from surrounding village shops while staying at [Two Rooms Hotel](http://www.2roomshotel.com/) inside the [Urla Vineyard](http://www.urlasarapcilik.com.tr/en-US) in Turkey._
 
 ## Crackers & Bread
 
-The perfect companion to cheese is the <%= link_to "olive oil sourdough crackers", "_posts/sourdough-discard-olive-oil-crackers.md" %>, but the good old <%= link_to "sourdough bread", "_posts/sourdough-bread-guide.md" %> would work too. Just don’t go overboard with the bread (ba dum tss).
+The perfect companion to cheese is the <%= link_to "olive oil sourdough crackers", "\_posts/sourdough-discard-olive-oil-crackers.md" %>, but the good old <%= link_to "sourdough bread", "\_posts/sourdough-bread-guide.md" %> would work too. Just don’t go overboard with the bread (ba dum tss).
 
 ## Extras
 
