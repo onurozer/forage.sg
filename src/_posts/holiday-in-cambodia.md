@@ -1,4 +1,5 @@
 ---
+date: 2020-06-17
 title: Holiday in Cambodia
 slug: holiday-in-cambodia
 description: This tropical cocktail was invented in Singapore a few years ago two master bartenders.

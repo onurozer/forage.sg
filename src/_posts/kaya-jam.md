@@ -1,4 +1,5 @@
 ---
+date: 2020-06-25
 title: Kaya Jam
 slug: kaya-jam
 description: The perfect marriage of pandan, coconut cream, eggs and sugar

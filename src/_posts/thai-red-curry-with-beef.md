@@ -1,4 +1,5 @@
 ---
+date: 2020-06-03
 title: Thai Red Curry with Beef
 slug: thai-red-curry-with-beef
 description: "Making Thai curry at home doesn’t have to be a daunting affair."

@@ -1,4 +1,5 @@
 ---
+date: 2020-04-14
 title: Shakshuka
 slug: shakshuka
 description: "Eggs poached in spicy tomato sauce? Shut up and take my money!"

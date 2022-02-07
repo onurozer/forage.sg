@@ -1,4 +1,5 @@
 ---
+date: 2020-06-05
 title: Bruschetta
 slug: bruschetta
 description: "Nothing makes fresh tomatoes sing like a bruschetta!"

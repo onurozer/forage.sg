@@ -1,4 +1,5 @@
 ---
+date: 2020-05-24
 title: The Ultimate Bloody Mary
 slug: ultimate-bloody-mary
 description: The most appropriate cocktail for raging hangovers.

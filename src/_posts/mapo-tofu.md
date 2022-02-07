@@ -1,4 +1,5 @@
 ---
+date: 2020-05-28
 title: Mapo Tofu
 slug: mapo-tofu
 description: Probably the best way to eat tofu.

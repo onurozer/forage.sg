@@ -1,4 +1,5 @@
 ---
+date: 2020-07-03
 title: Kaya Dorayaki
 slug: kaya-dorayaki
 description: Japanese pancake with a Singaporean twist

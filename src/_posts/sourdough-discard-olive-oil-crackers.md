@@ -1,4 +1,5 @@
 ---
+date: 2020-07-01
 title: Olive Oil Crackers
 slug: sourdough-discard-olive-oil-crackers
 description: The perfect companion to cheese plates

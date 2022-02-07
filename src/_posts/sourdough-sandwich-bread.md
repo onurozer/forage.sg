@@ -1,4 +1,5 @@
 ---
+date: 2020-06-21
 title: Sourdough Sandwich Bread
 slug: sourdough-sandwich-bread
 description: The most important American invention is the sandwich bread.
