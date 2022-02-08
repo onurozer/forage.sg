@@ -29,7 +29,9 @@ layout: default
       <!-- Tags -->
       <ul class="tags mt-3 flex justify-center space-x-2 text-xs">
         <% resource.data.tags.each do |tag| %>
-          <li class="rounded-full bg-gray-200 px-3 py-1"><%= tag.capitalize %></li>
+          <li class="rounded-full bg-neutral-200 px-3 py-1">
+            <%= tag.capitalize %>
+          </li>
         <% end %>
       </ul>
     </div>
