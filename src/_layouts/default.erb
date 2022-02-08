@@ -3,12 +3,32 @@
   <head>
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body class="antialiased bg-white text-black <%= resource.data.page_class %> <%= resource.data.layout %>">
-    <%# render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
-    <%= render "header", metadata: site.metadata %>
+  <body class="antialiased bg-white text-gray-900 <%= resource.data.page_class %> <%= resource.data.layout %>">
+    <!-- Header -->
+    <header class="">
+      <!-- Logo -->
+      <div class="p-10 max-w-7xl mx-auto text-center">
+        <a href="/" class="">
+          <div class="flex justify-center mb-2">
+            <img src="/images/logo-bold.svg" alt="<%= site.metadata.title %>" class="w-36" />
+          </div>
+          <div class=""><%= site.metadata.description %></div>
+        </a>
+      </div>
+      <!-- Navigation -->
+      <%# <nav class="hidden sm:block">
+        <ul class="flex space-x-4 uppercase justify-center">
+          <li><a href="/">Home</a></li>
+        </ul>
+      </nav> %>
+    </header>
+    <!-- Main -->
     <main class=" max-w-7xl mx-auto">
       <%= yield %>
     </main>
-    <%= render "footer", metadata: site.metadata %>
+    <!-- Footer -->
+    <footer class="px-10 py-6 text-xs mb-0 bg-white text-center">
+      Copyright <%= Time.now.year %> <%= site.metadata.title %>. All rights reserved.
+    </footer>
   </body>
 </html>

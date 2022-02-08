@@ -8,11 +8,15 @@
 @tailwind utilities;
 
 @layer components {
-  /* .recipe-details ul,
+  .recipe-details ul,
   .recipe-details ol,
   .recipe-details li {
     @apply list-none pl-0 ml-0;
-  } */
+  }
+  .recipe-details li {
+    @apply mb-4;
+  }
+
   .instructions ol {
     counter-reset: item;
   }
@@ -21,5 +25,11 @@
     @apply font-bold;
     content: "Step " counter(item) "\A";
     counter-increment: item;
+  }
+}
+
+@layer utilities {
+  .font-heading {
+    @apply font-semibold tracking-tight;
   }
 }

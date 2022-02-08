@@ -12,31 +12,30 @@ layout: default
     </div>
     <!-- Heading and Subtitle -->
     <div class="py-12 px-6">
-      <h1 class="font-extrabold text-4xl font-heading" >
+      <h1 class="font-heading text-4xl mb-1" >
         <%= resource.data.title %>
       </h1>
-      <p class="tagline text-2xl max-w-3xl mx-auto mb-4">
+      <p class="tagline text-2xl max-w-3xl mx-auto mb-12">
         <%= resource.data.description %>
       </p>
       <time class="tagline max-w-3xl mx-auto mb-4" datetime="<%= resource.date.strftime("%Y-%d-%m") %>">
         <%= resource.date.strftime("%B %Y") %>
       </time>
-      <p class="tagline max-w-3xl mx-auto mb-4">
+      <p class="tagline max-w-3xl mx-auto">
         <% unless resource.data.author.nil? %>
           <%= site.metadata.authors[resource.data.author].name%>
         <% end %>
       </p>
       <!-- Tags -->
-      <%# <ul class="tags mt-3 flex justify-center space-x-2 text-xs">
-          <li>{{> "tag"}}</li>
-        </ul>
-        <time class="" datetime="{{date format="YYYY-MM-DD"}}">
-          {{date format="D MMM YYYY"}}
-        </time>         %>
+      <ul class="tags mt-3 flex justify-center space-x-2 text-xs">
+        <% resource.data.tags.each do |tag| %>
+          <li class="rounded-full bg-gray-200 px-3 py-1"><%= tag.capitalize %></li>
+        <% end %>
+      </ul>
     </div>
   </header>
   <!-- Article Content -->
-  <div class="max-w-2xl mx-auto prose prose-slate prose-a:text-red-500 px-5 prose-img:mb-0 mb-12">
+  <div class="max-w-2xl mx-auto prose prose-em:text-sm prose-em:leading-snug text-neutral-900 prose-pink px-5 prose-img:mb-0 mb-12">
     <%= yield %>
   </div>
 </article>
