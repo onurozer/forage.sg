@@ -50,6 +50,8 @@ GEM
       bridgetown-core (= 1.0.0.beta1)
     bridgetown-seo-tag (5.0.0)
       bridgetown (>= 0.20.0, < 2.0)
+    bridgetown-sitemap (1.1.1)
+      bridgetown (>= 0.20, < 2.0)
     cloudinary (1.21.0)
       aws_cf_signer
       rest-client (>= 2.0.0)
@@ -150,6 +152,7 @@ DEPENDENCIES
   bridgetown (~> 1.0.0.beta1)
   bridgetown-cloudinary (~> 1.2)
   bridgetown-seo-tag (~> 5.0)
+  bridgetown-sitemap (~> 1.1)
   puma (~> 5.5)
 
 BUNDLED WITH

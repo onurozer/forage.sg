@@ -30,3 +30,5 @@ gem "puma", "~> 5.5"
 
 gem "bridgetown-cloudinary", "~> 1.2", group: :bridgetown_plugins
 gem "bridgetown-seo-tag", "~> 5.0", group: :bridgetown_plugins
+
+gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
