@@ -22,7 +22,7 @@ template_engine: erb
 
 collections:
   posts:
-    permalink: simple
+    permalink: /:title/
     sort_by: date
     sort_direction: descending
 
