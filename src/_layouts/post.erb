@@ -3,38 +3,36 @@ layout: default
 ---
 <!-- Recipe -->
 <article>
-  <!-- Article Header -->
-  <header class="text-center">
-    <!-- Image -->
-    <img class="w-full" 
+  <!-- Image -->
+  <img class="w-full" 
           src="<%= cloudinary_url resource.data.cloudinary_id %>"
           alt="<%= resource.data.title %>"
           width="1600"
           height="900" />
-    <div class="py-12 px-6">
-      <!-- Metadata -->
-      <div class="meta text-sm text-gray-500 mb-6">
-        <% resource.data.categories.each do |category| %>
-          <span class="category text-pink-500"><a href="/#<%= category %>"><%= category %></a></span> &bull;
-        <% end %>
-        <time class="" datetime="<%= resource.date.strftime("%Y-%d-%m") %>">
-          <%= resource.date.strftime("%B %Y") %>
-        </time>
-        <% unless resource.data.author.nil? %>
-          &bull; <span class="author"><%= site.metadata.authors[resource.data.author].name%></span>
-        <% end %>
-      </div>
-      <!-- Heading and Subtitle -->
-      <h1 class="font-heading text-4xl mb-1 font-black" >
-        <%= resource.data.title %>
-      </h1>
-      <p class="tagline text-2xl max-w-3xl mx-auto mb-4">
-        <%= resource.data.description %>
-      </p>
-    </div>
+  <!-- Header -->
+  <header class="text-center py-12 px-6">
+    <!-- Metadata -->
+    <p class="meta text-sm text-gray-500 mb-3">
+      <% resource.data.categories.each do |category| %>
+        <span class="category text-pink-500"><a href="/#<%= category %>"><%= category %></a></span> &bull;
+      <% end %>
+      <time class="" datetime="<%= resource.date.strftime("%Y-%d-%m") %>">
+        <%= resource.date.strftime("%B %Y") %>
+      </time>
+      <% unless resource.data.author.nil? %>
+        &bull; <span class="author"><%= site.metadata.authors[resource.data.author].name%></span>
+      <% end %>
+    </p>
+    <!-- Title and Subtitle -->
+    <h1 class="font-heading text-4xl sm:text-5xl mb-3 font-black" >
+      <%= resource.data.title %>
+    </h1>
+    <p class="tagline text-2xl mx-auto mb-3">
+      <%= resource.data.description %>
+    </p>
   </header>
-  <!-- Article Content -->
-  <div class="max-w-2xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
+  <!-- Content -->
+  <div class="max-w-4xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
     <%= yield %>
   </div>
 </article>

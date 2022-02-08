@@ -8,6 +8,13 @@
 @tailwind utilities;
 
 @layer components {
+  .prose p,
+  .prose h2,
+  .prose h3,
+  .prose ul,
+  .prose ol {
+    @apply max-w-2xl mx-auto;
+  }
   .instructions ol {
     counter-reset: item;
   }
