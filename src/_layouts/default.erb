@@ -12,7 +12,9 @@
           <img src="/images/logo-bold.svg" alt="<%= site.metadata.title %>" class="w-36" />
         </div>
       </a>
-      <div class=""><%= site.metadata.description %></div>
+      <div class="">
+        <%= link_to site.metadata.description, "about.md" %>
+      </div>
     </header>
     <!-- Main -->
     <main class=" max-w-7xl mx-auto">
