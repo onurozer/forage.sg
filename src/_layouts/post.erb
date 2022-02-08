@@ -8,11 +8,13 @@ layout: default
     <div class="">
       <img class="w-full" 
           src="<%= cloudinary_url resource.data.cloudinary_id %>"
-          alt="<%= resource.data.title %>" />
+          alt="<%= resource.data.title %>"
+          width="1600"
+          height="900" />
     </div>
     <!-- Heading and Subtitle -->
     <div class="py-12 px-6">
-      <h1 class="font-heading text-4xl mb-1" >
+      <h1 class="font-heading text-4xl mb-1 font-black" >
         <%= resource.data.title %>
       </h1>
       <p class="tagline text-2xl max-w-3xl mx-auto mb-12">
@@ -37,7 +39,7 @@ layout: default
     </div>
   </header>
   <!-- Article Content -->
-  <div class="max-w-2xl mx-auto prose prose-em:text-sm prose-em:leading-snug text-neutral-900 prose-pink px-5 prose-img:mb-0 mb-12">
+  <div class="max-w-2xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-neutral-900 prose-pink px-5 prose-img:mb-0 mb-12">
     <%= yield %>
   </div>
 </article>

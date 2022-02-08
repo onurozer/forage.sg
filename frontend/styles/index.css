@@ -30,6 +30,6 @@
 
 @layer utilities {
   .font-heading {
-    @apply font-semibold tracking-tight;
+    /* @apply font-bold; */
   }
 }
