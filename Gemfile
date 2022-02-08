@@ -28,7 +28,10 @@ gem "bridgetown", "~> 1.0.0.beta1"
 # (you can optionally limit this to the "development" group)
 gem "puma", "~> 5.5"
 
-gem "bridgetown-cloudinary", "~> 1.2", group: :bridgetown_plugins
-gem "bridgetown-seo-tag", "~> 5.0", group: :bridgetown_plugins
 
-gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
+group :bridgetown_plugins do
+  gem "bridgetown-cloudinary", "~> 1.2"
+  gem "bridgetown-seo-tag", "~> 5.0"
+  gem "bridgetown-sitemap", "~> 1.1"
+  gem "bridgetown-plausible", "~> 1.0.2"
+end
