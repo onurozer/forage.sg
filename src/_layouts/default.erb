@@ -3,7 +3,7 @@
   <head>
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body class="antialiased bg-white text-gray-900 <%= resource.data.page_class %> <%= resource.data.layout %>">
+  <body class="antialiased bg-white text-gray-800 <%= resource.data.page_class %> <%= resource.data.layout %>">
     <!-- Header -->
     <header class="py-8 max-w-7xl mx-auto text-center">
       <!-- Logo -->
@@ -21,7 +21,7 @@
       <%= yield %>
     </main>
     <!-- Footer -->
-    <footer class="px-10 py-6 text-xs mb-0 bg-neutral-200 text-neutral-800 text-center">
+    <footer class="px-10 py-6 text-xs mb-0 bg-gray-200 text-gray-800 text-center">
       Copyright <%= Time.now.year %> <%= site.metadata.title %>. All rights reserved.
     </footer>
   </body>

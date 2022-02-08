@@ -13,7 +13,7 @@ layout: default
           height="900" />
     <div class="py-12 px-6">
       <!-- Metadata -->
-      <div class="meta text-sm text-neutral-500 mb-6">
+      <div class="meta text-sm text-gray-500 mb-6">
         <% resource.data.categories.each do |category| %>
           <span class="category text-pink-500"><a href="/#<%= category %>"><%= category %></a></span> &bull;
         <% end %>
@@ -43,7 +43,7 @@ layout: default
     </div>
   </header>
   <!-- Article Content -->
-  <div class="max-w-2xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-neutral-900 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
+  <div class="max-w-2xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
     <%= yield %>
   </div>
 </article>
