@@ -15,6 +15,7 @@
 #
 
 url: "https://forage.sg" # the base hostname & protocol for your site, e.g. https://example.com
+lang: en_SG
 
 permalink: pretty
 template_engine: erb
