@@ -1,15 +1,15 @@
-<div class="recipe-details sm:flex sm:max-w-2xl sm:mx-auto mb-12">
-  <div class="ingredients mb-12 sm:mb-0 sm:pr-6 sm:mr-6">
-    <h2>Ingredients</h2>
-    <ul class="pl-0">
+<div class="recipe-details sm:flex sm:content-start sm:max-w-2xl sm:mx-auto pt-6 not-prose">
+  <div class="ingredients sm:pr-6 sm:mr-6 mb-12">
+    <h2 class="text-2xl font-bold mb-6">Ingredients</h2>
+    <ul class="pl-0 flex flex-col space-y-3">
       <% data.ingredients.each do |ingredient|%>
         <li class="list-none pl-0"> <%= ingredient %></li>
       <% end%>
     </ul>
   </div>
-  <div class="instructions">
-    <h2>Instructions</h2>
-    <ol class="list-none pl-0">
+  <div class="instructions pb-6">
+    <h2 class="text-2xl font-bold mb-6">Instructions</h2>
+    <ol class="list-none pl-0 flex flex-col space-y-6">
       <% data.instructions.each do |instruction|%>
         <li class="pl-0"> <%= instruction %></li>
       <% end%>

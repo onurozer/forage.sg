@@ -8,15 +8,6 @@
 @tailwind utilities;
 
 @layer components {
-  .recipe-details ul,
-  .recipe-details ol,
-  .recipe-details li {
-    @apply list-none pl-0 ml-0;
-  }
-  .recipe-details li {
-    @apply mb-4;
-  }
-
   .instructions ol {
     counter-reset: item;
   }
