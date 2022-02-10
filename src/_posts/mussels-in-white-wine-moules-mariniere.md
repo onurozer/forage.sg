@@ -5,7 +5,7 @@ slug: mussels-in-white-wine-moules-mariniere
 cloudinary_id: recipes/mussels-in-white-wine-moules-mariniere
 description: Decadent seafood dinner without the effort
 category: Food
-author: onur
+author: onurozer
 tags:
   - seafood
   - quick

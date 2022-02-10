@@ -5,7 +5,7 @@ slug: kaya-dorayaki
 cloudinary_id: recipes/kaya-dorayaki
 description: Japanese pancakes with a Singaporean twist
 category: Cakes
-author: audrey
+author: audreychong
 tags:
   - singapore
   - japan

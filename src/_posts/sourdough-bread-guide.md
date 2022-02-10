@@ -5,7 +5,7 @@ slug: sourdough-bread-guide
 cloudinary_id: recipes/sourdough-bread-guide
 description: A freshly baked sourdough bread is a thing of beauty
 category: Bread
-author: onur
+author: onurozer
 tags:
   - sourdough
   - guide

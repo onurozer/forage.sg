@@ -7,7 +7,7 @@ description: The flavour without the grind
 servings: 2
 duration: 45 minutes
 category: Food
-author: audrey
+author: audreychong
 tags:
   - asian
   - thai

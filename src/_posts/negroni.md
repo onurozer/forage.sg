@@ -5,7 +5,7 @@ slug: negroni
 cloudinary_id: recipes/negroni
 description: Easy to make, endless variations and perfect for any time of the day.
 category: Cocktails
-author: onur
+author: onurozer
 tags:
   - gin
   - negroni

@@ -6,7 +6,7 @@ cloudinary_id: recipes/sourdough-starter-guide
 description: Technically a natural yeast, practically a tamagotchi.
 duration: 7 days
 category: Bread
-author: onur
+author: onurozer
 tags:
   - sourdough
   - starter

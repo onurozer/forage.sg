@@ -5,7 +5,7 @@ slug: turkish-eggs
 cloudinary_id: recipes/turkish-eggs
 description: An eggsplosion of flavours.
 category: Brunch
-author: onur
+author: onurozer
 tags:
   - sourdough
   - sandwich

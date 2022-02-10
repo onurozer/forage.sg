@@ -5,7 +5,7 @@ slug: holiday-in-cambodia
 cloudinary_id: recipes/holiday-in-cambodia
 description: Tropical flavour-bomb invented in Singapore
 category: Cocktails
-author: onur
+author: onurozer
 tags:
   - gin
   - tropical

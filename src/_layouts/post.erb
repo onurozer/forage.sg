@@ -20,7 +20,7 @@ layout: default
         <%= resource.date.strftime("%B %Y") %>
       </time>
       <% unless resource.data.author.nil? %>
-        &bull; <span class="author"><%= site.metadata.authors[resource.data.author].name%></span>
+        &bull; <span class="author"><%= site.data.authors[resource.data.author].name %></span>
       <% end %>
     </p>
     <!-- Title and Subtitle -->

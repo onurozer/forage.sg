@@ -5,7 +5,7 @@ slug: one-pan-brunch
 cloudinary_id: recipes/one-pan-brunch
 description: The perfect brunch for the hungry and the lazy.
 category: Brunch
-author: onur
+author: onurozer
 tags:
   - food
   - eggs

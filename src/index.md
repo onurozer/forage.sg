@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
+cloudinary_id: recipes/martini
 ---
 
 <% site.categories.keys.each do |category| %>

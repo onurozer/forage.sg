@@ -5,7 +5,7 @@ slug: cheese-plate-guide
 cloudinary_id: recipes/cheese-plate-guide
 description: Battle-tested lessons on putting together ultimate cheese plates.
 category: Food
-author: onur
+author: onurozer
 tags:
   - cheese
   - guide

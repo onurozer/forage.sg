@@ -5,7 +5,7 @@ slug: pandan-honeycomb-cake
 cloudinary_id: recipes/pandan-honeycomb-cake
 description: Uniquely chewy and popular Vietnamese cake
 category: Cakes
-author: audrey
+author: audreychong
 tags:
   - vietnamese
   - pandan

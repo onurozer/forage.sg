@@ -5,7 +5,7 @@ slug: thai-basil-chicken
 cloudinary_id: recipes/thai-basil-chicken
 description: From the gritty streets of Bangkok
 category: Food
-author: audrey
+author: audreychong
 tags:
   - chicken
   - asian

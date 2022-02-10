@@ -7,7 +7,7 @@ description: Probably the best way to eat tofu.
 category: Food
 servings: 2
 duration: 30 minutes
-author: audrey
+author: audreychong
 tags:
   - asian
   - tofu

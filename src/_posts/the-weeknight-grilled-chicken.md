@@ -5,7 +5,7 @@ slug: the-weeknight-grilled-chicken
 cloudinary_id: recipes/the-weeknight-grilled-chicken
 description: Crowd pleaser for the lazy and the practical
 category: Food
-author: onur
+author: onurozer
 tags:
   - chicken
   - potato

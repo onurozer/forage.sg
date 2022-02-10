@@ -5,7 +5,7 @@ slug: martini
 cloudinary_id: recipes/martini
 description: The best cocktail in the history of cocktails, ever.
 category: Cocktails
-author: onur
+author: onurozer
 tags:
   - gin
   - martini
