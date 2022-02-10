@@ -50,8 +50,6 @@ A martini glass or a coupé, properly chilled. A room temperature glass is a car
 
 ## Olive vs. Lemon Peel
 
-Olive.
-
 > One is elegant, two is proper and three is a meal
 
 Not sure who said it but I concur. Castelvetrano olives are usually a great choice. Try to stay away from stuffed olives unless you enjoy a slimy layer on top.
