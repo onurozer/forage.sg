@@ -18,7 +18,7 @@ ingredients:
   - 3 cloves of garlic
   - 3 sprigs of spring onions, chopped
   - 7 fresh shiitake mushrooms, chopped
-  - 1 tbsp [gochujang](https://en.wikipedia.org/wiki/Gochujang) (Korean spicy bean paste)
+  - 1 tbsp gochujang (Korean spicy bean paste)
   - 1/2 tbsp Szechuan chilli oil
   - 1/2 tsp fish sauce
   - 1 tsp oyster sauce
