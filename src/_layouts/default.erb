@@ -3,26 +3,12 @@
   <head>
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body class="antialiased bg-white text-gray-800 <%= resource.data.page_class %> <%= resource.data.layout %>">
-    <!-- Header -->
-    <header class="py-8 max-w-7xl mx-auto text-center">
-      <!-- Logo -->
-      <a href="/" class="">
-        <div class="flex justify-center mb-2">
-          <img src="/images/logo-bold.svg" alt="<%= site.metadata.title %>" class="w-36" />
-        </div>
-      </a>
-      <div class="">
-        <%= link_to site.metadata.description, "about.md" %>
-      </div>
-    </header>
+  <body class="antialiased bg-white text-gray-800 flex flex-col min-h-screen <%= resource.data.page_class %> <%= resource.data.layout %>">
+    <%= render "header", site: site %>
     <!-- Main -->
-    <main class=" max-w-7xl mx-auto">
+    <main class=" max-w-7xl mx-auto flex-grow">
       <%= yield %>
     </main>
-    <!-- Footer -->
-    <footer class="px-10 py-6 text-xs mb-0 bg-gray-100 text-gray-800 text-center">
-      Copyright <%= Time.now.year %> <%= site.metadata.title %>. All rights reserved.
-    </footer>
+    <%= render "footer", site: site %>
   </body>
 </html>

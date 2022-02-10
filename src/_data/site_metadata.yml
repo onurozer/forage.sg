@@ -6,16 +6,11 @@
 
 title: Forage
 tagline: In search of the best food, cocktails and travel
-email: onur@forage.sg
-description: >-
-  A playground for culinary experiments.
-footer_text: Playground for culinary experiments. Born in 🇸🇬, growing up in 🇨🇭.
+description: A playground for culinary experiments.
 authors:
   onur:
     name: Onur Ozer
-    bio: All around awesome guy
     url: https://www.instagram.com/onurozersg/
   audrey:
     name: Audrey Chong
-    bio: Pandan queen
     url: https://www.instagram.com/audrey.chong/
