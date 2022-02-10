@@ -3,7 +3,7 @@ date: 2020-05-23
 title: Thai Basil Chicken
 slug: thai-basil-chicken
 cloudinary_id: recipes/thai-basil-chicken
-description: Quintessential street food from the gritty streets of Bangkok
+description: From the gritty streets of Bangkok
 category: Food
 author: audrey
 tags:
@@ -34,8 +34,8 @@ instructions:
   - Once the sugars start to turn glossy in the pan, toss in the basil and cook for another 30 secs before turning off the heat.
 ---
 
-The punchy aromas of this quintessential street food beckons at every other corner as you walk through the busy and gritty streets of Bangkok. This dish is a go-to comfort food that can be cooked up in a flash with a fire-in-the-belly sensation that lingers.
+The punchy aromas of this quintessential street food beckons at every other corner as you walk through the busy and gritty streets of Bangkok. This dish is a go-to comfort food that can be cooked up in a flash with a lingering "fire-in-the-belly" sensation.
 
 <%= render "recipe_details", data: resource.data %>
 
-To serve, spoon the chicken over a bed of steaming Jasmine rice and place the fried egg on top. Garnish with a sprig of basil leaves and enjoy.
+To serve, spoon the chicken over a bed of steaming Jasmine rice and place the fried egg on top. Garnish with a sprig of Thai basil leaves and enjoy.

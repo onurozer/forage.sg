@@ -3,7 +3,7 @@ date: 2020-06-03
 title: Thai Red Curry with Beef
 slug: thai-red-curry-with-beef
 cloudinary_id: recipes/thai-red-curry-with-beef
-description: "Making Thai curry at home doesn’t have to be a daunting affair."
+description: The flavour without the grind
 servings: 2
 duration: 45 minutes
 category: Food
@@ -30,19 +30,17 @@ ingredients:
 
 instructions:
   - Roughly dice the shallots and garlic, and pound to a paste in a mortar.
-  - Mix beef with onion-garlic paste, fish sauce and Thai Red Curry paste in a mixing bowl and marinate for at least an hour in the refrigerator, or overnight for a more tender and flavourful beef
+  - Mix beef with onion-garlic paste, fish sauce and Thai Red Curry paste in a mixing bowl and marinate for at least an hour in the refrigerator, or overnight for a more tender and flavourful beef.
   - When you’re ready to cook, start by lightly bruising the lemongrass stalks with a pestle or the back of a knife to release the fragrant essential oils.
-  - Heat the vegetable oil in a heavy-bottom pot on medium high heat, throw in the lemongrass and fry it for a minute or two
+  - Heat the vegetable oil in a heavy-bottom pot on medium high heat, throw in the lemongrass and fry it for a minute or two.
   - Add the the marinated beef to stir-fry for 5 mins.
   - Add water and palm sugar to the pot and stir gently, making sure paste at the bottom of the pan gets incorporated with the water. Bring to a boil.
-  - Add potatoes and eggplant, cook until tender, for about 30 minutes
+  - Add potatoes and eggplant, cook until tender, for about 30 minutes.
   - Lower the heat before adding in the coconut milk. Simmer for another 15 mins.
   - Add Thai basil leaves or curry leaves and cook for another 5 mins before turning off the heat.
 ---
 
-Making your own authentic Thai curry at home doesn’t have to be a daunting affair. With so many brands out there offering ready-to-use pastes, you can simply use it as a base and build up layers of flavours with other ingredients. This little ‘cheat’ eliminates the need to make your paste from scratch!
-
-To make the beef easier to slice, you can put it in the freezer for 15 minutes prior to cutting.
+Making your own authentic Thai curry at home doesn’t have to be a daunting affair. With so many ready-to-use paste brands, you can simply use it as a base and build up layers of flavours with other ingredients. This little "cheat"s eliminates the need to make your paste from scratch! To make the beef easier to slice, you can put it in the freezer for 15 minutes prior to cutting.
 
 <%= render "recipe_details", data: resource.data %>
 

@@ -13,22 +13,22 @@ tags:
 ingredients:
   - 60ml gin
   - 30ml lemon juice, freshly squeezed
-  - 20ml lemongrass syrup
+  - 20ml lemongrass syrup, see above
   - 1 egg white
   - Angostura bitters
 
 instructions:
-  - Pour the gin, lemon juice, lemongrass syrup and egg white into a shaker without ice and shake vigorously
-  - Add ice cubes and shake again until ice cold, about 30 seconds
-  - Strain through a tea strainer into a chilled coupe
+  - Pour the gin, lemon juice, lemongrass syrup and egg white into a shaker without ice and shake vigorously.
+  - Add ice cubes and shake again until ice cold, about 30 seconds.
+  - Strain through a tea strainer into a chilled coupe.
   - Garnish with a few drops of angostura bitters.
 ---
 
-This tropical cocktail was invented in Singapore a few years ago by a master bartender -me- and my cocktail workshop partner [Riku](https://www.instagram.com/rvassinen/). It was named after the fact that his wife was on a getaway in Cambodia while we were toiling away in the kitchen to bring home the dough, in this case the dough being tomahawk steaks and cocktails.
+This tropical cocktail was invented in Singapore a few years ago during a cocktail workshop with a master bartender –me– and my workshop partner [Riku](https://www.instagram.com/rvassinen/). The name comes from the fact that Riku's wife was on a holiday in Cambodia, while we were working hard mixing cocktails and tomahawk steaks. Tough life.
 
 The original recipe used [Paper Lantern Gin](https://drinkpaperlantern.com), the self-proclaimed Singapore’s first craft gin, ironically made with ingredients from Vietnam and coincidentally by a Turkish founder. That said, any craft peppery gin will work equally well, or maybe even better.
 
-This recipe requires lemongrass syrup, a key ingredient that gives the cocktail it’s intoxicating flavour and aroma. To make it, combine equal parts of white sugar and water with 3-4 thinly sliced lemongrass stalks. Heat it until it starts to simmer, turn off the heat and steep for 15 minutes and strain through a cheesecloth. It will stay fresh in the fridge for a couple of weeks.
+This recipe requires lemongrass syrup, a key ingredient that gives the cocktail it’s tropical flavour and aroma. To make it, combine equal parts of white sugar and water with 3-4 thinly sliced lemongrass stalks. Heat it until it starts to simmer, turn off the heat and steep for 15 minutes and strain through a cheesecloth. It will stay fresh in the fridge for a couple of weeks.
 
 <%= render "recipe_details", data: resource.data %>
 

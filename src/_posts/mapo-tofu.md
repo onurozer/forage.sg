@@ -38,7 +38,7 @@ instructions:
   - Turn off heat and transfer to a bowl and garnish with some hand-torn coriander (totally optional).
 ---
 
-The great thing about mapo tofu is that there is no one style or one taste profile so you can cook it in a few ways with a variety of ingredients that takes your fancy. So when you cook this at home, you don’t have to waste time picking out hateful vegetables.. in my case, bell peppers!
+The great thing about mapo tofu is that there is no one style or one taste profile so you can cook it in a few ways with a variety of ingredients that takes your fancy. So when you cook this at home, you don’t have to waste time picking out the vegetables you hate, in my case, bell peppers!
 
 <%= render "recipe_details", data: resource.data %>
 

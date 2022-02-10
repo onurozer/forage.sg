@@ -3,7 +3,7 @@ date: 2020-05-18
 title: One-Pan Brunch
 slug: one-pan-brunch
 cloudinary_id: recipes/one-pan-brunch
-description: Perfect recipe for people who are hungry, lazy or both.
+description: The perfect brunch for the hungry and the lazy.
 category: Brunch
 author: onur
 tags:
@@ -26,16 +26,16 @@ ingredients:
   - A pinch of cayenne pepper
 
 instructions:
-  - Cook bacon on a wide cast-iron skillet with a bit of olive oil, for a few minutes
-  - Add mushrooms with more olive oil, cook until they start to release water
-  - Add beans and reheat, for 3-5 mins
+  - Cook bacon on a wide cast-iron skillet with a bit of olive oil, for a few minutes.
+  - Add mushrooms with more olive oil, cook until they start to release water.
+  - Add beans and reheat, for 3-5 mins.
   - Crack eggs in the middle of the pan, cook until whites are set, about 3-5 mins.
-  - Add tomatoes together with eggs, lightly grill
-  - Season mushrooms with lemon juice and parsley, eggs with cayenne pepper and everything except bacon with salt & pepper
+  - Add tomatoes together with eggs, lightly grill.
+  - Season mushrooms with lemon juice and parsley, eggs with cayenne pepper and everything except bacon with salt & pepper.
   - Serve directly on the pan!
 ---
 
-This recipe is perfect for people who are hungry, lazy or both! The ideal time to make this is Sunday mornings, although technically any day would work. The beauty of the recipe is that as far as ingredients are concerned, pretty much anything goes.
+The ideal time for this is a Sunday morning, although technically any day would work. The beauty of the recipe is that as far as ingredients are concerned, pretty much anything goes.
 
 <%= render "recipe_details", data: resource.data %>
 

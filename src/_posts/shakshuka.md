@@ -27,27 +27,27 @@ ingredients:
   - 1 dried bay leaf
 
 instructions:
-  - Cook onions and bell peppers in a skillet on medium-high heat until soft, about 10 minutes
-  - Add garlic, harissa, cumin, paprika and cayenne pepper and continue mixing for another 2 minutes
-  - Add tomatoes and break down using the back of a wooden spoon
-  - Let it simmer on low-medium heat until tomato sauce starts to thicken, about 10 minutes
-  - Gently crack eggs, use the spoon to dig a nest for the eggs in the sauce
-  - Cover skillet with lid and cook for another 3-5 minutes, until egg whites are set and yolk is still runny
-  - Add greek yogurt in the middle and chopped herbs on top, season with salt, pepper and cayenne
-  - Serve with toasted sourdough bread
+  - Cook onions and bell peppers in a skillet on medium-high heat until soft, about 10 minutes.
+  - Add garlic, harissa, cumin, paprika and cayenne pepper and continue mixing for another 2 minutes.
+  - Add tomatoes and break down using the back of a wooden spoon.
+  - Let it simmer on low-medium heat until tomato sauce starts to thicken, about 10 minutes.
+  - Gently crack eggs, use the spoon to dig a nest for the eggs in the sauce.
+  - Cover skillet with lid and cook for another 3-5 minutes, until egg whites are set and yolk is still runny.
+  - Add greek yogurt in the middle and chopped herbs on top, season with salt, pepper and cayenne.
+  - Serve with toasted sourdough bread.
 ---
 
-Eggs poached in spicy tomato sauce with herbs and peppers? Shut up and take my money! This is the quintessential mediterranean brunch dish, although it works perfectly for dinner and supper too.
+This is the quintessential mediterranean brunch dish, although it works pretty well as dinner or supper too.
 
-This recipe is a very flexible, customize it to your heart’s content: There’s no meat below, but adding chorizo or bacon is highly encouraged. The yogurt helps balance out the spice, but feta cheese does wonders too.
+This recipe is a very flexible, customize it to your heart’s content. There’s no meat here, but adding chorizo or bacon is highly encouraged. The yogurt helps balance out the spice, but feta cheese does wonders too.
 
 <%= render "recipe_details", data: resource.data %>
 
-Don’t forget to serve it with crusty, toasted <%= link_to "sourdough bread", "\_posts/sourdough-bread-guide.md" %>, otherwise the shakshuka police will hunt you down and make you pay!
+Don’t forget to serve it with crusty, toasted <%= link_to "sourdough bread", "\_posts/sourdough-bread-guide.md" %>, otherwise the shakshuka police will hunt you down.
 
 ## Tips & Tricks
 
-- Cast iron skillet is fantastic for this but make sure it’s well seasoned, almost non-stick. Otherwise the acid in tomato will ruin your pan and you’ll cry.
-- Most recipes call for baking the eggs, which makes you look cool but completely unnecessary.
-- You know your eggs are ready to add when the tomato sauce has reduced but not completely dry.
+- A cast iron skillet is fantastic for this dish but make sure it’s well seasoned, almost to the point where it's non-stick. Otherwise the acid in the tomatoes will ruin your pan and you’ll cry.
+- Most recipes call for baking the eggs, which is arguably cooler but completely unnecessary.
+- You know your eggs are ready to add when the tomato sauce has reduced but not completely dried up.
 - Canned tomatoes work better than fresh tomatoes, unless you grow your own tomatoes in your idyllic backyard, in which case feel free to use them.

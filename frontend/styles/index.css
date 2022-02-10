@@ -12,7 +12,9 @@
   .prose h2,
   .prose h3,
   .prose ul,
-  .prose ol {
+  .prose ol,
+  .prose table,
+  .prose blockquote {
     @apply max-w-2xl mx-auto;
   }
   .instructions ol {

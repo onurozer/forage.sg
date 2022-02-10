@@ -1,6 +1,6 @@
 ---
 date: 2020-05-31
-title: "Mussels in White Wine: Moules Marinière"
+title: "Mussels in White Wine"
 slug: mussels-in-white-wine-moules-mariniere
 cloudinary_id: recipes/mussels-in-white-wine-moules-mariniere
 description: Decadent seafood dinner without the effort
@@ -25,23 +25,23 @@ ingredients:
   - Salt and pepper to season
 
 instructions:
-  - Scrub and clean beards of mussels under cold running water, reserve in cold water with a pinch of salt
-  - In a pot big enough for mussels, heat butter in medium-low heat and cook shallots and garlic until light brown, about 10 minutes
-  - Add wine, bring to a simmer
-  - Add mussels and close the lid. Cook for about 10 minutes, occasionally shaking the pot and stirring the mussels
-  - Transfer to a serving bowl and add lemon juice and parsley
+  - Scrub and clean beards of mussels under cold running water, reserve in cold water with a pinch of salt.
+  - In a pot big enough for mussels, heat butter in medium-low heat and cook shallots and garlic until light brown, about 10 minutes.
+  - Add wine, bring to a simmer.
+  - Add mussels and close the lid. Cook for about 10 minutes, occasionally shaking the pot and stirring the mussels.
+  - Transfer to a serving bowl and add lemon juice and parsley.
   - Season with salt and pepper and serve with toasted sourdough bread.
 ---
 
-Are you in the mood for a decadent seafood dinner for a date or a Sunday night, but don’t feel like to putting in a lot of effort? Mussels to the rescue. This recipe is also perfect when staying in an Airbnb, because it can be put together with very basic tools and ingredients.
+Are you in the mood for seafood dinner, but don’t feel like to putting in the effort? Mussels to the rescue. This recipe is also perfect when staying in an Airbnb, because it requires only the most basic tools and ingredients.
 
-The star of this dish is the mussels, so make sure you get the freshest ones you can find. The [New Zealand Green Mussels](https://en.wikipedia.org/wiki/Perna_canaliculus) are amazing with this recipe, but the common [Blue Mussels](https://en.wikipedia.org/wiki/Blue_mussel) would work perfectly as well.
+The star of this dish is the mussels, so make sure you get the freshest ones you can find. The [New Zealand Green Mussels](https://en.wikipedia.org/wiki/Perna_canaliculus) are amazing with this recipe, but the common [Blue Mussels](https://en.wikipedia.org/wiki/Blue_mussel) would work just fine too.
 
 <%= render "recipe_details", data: resource.data %>
 
 ## Tips & Tricks
 
-- The cheaper the wine, the better it is. If you have a bottle that your stingy friend brought over but it has been sitting around for ages, now is the time to open it.
-- This dish obviously goes perfect with dry white wine such as a Sauvignon Blanc, but a Belgian beer such as [Leffe](https://leffe.com/en/) would be great too.
-- The sourdough is perfect for mopping up the sauce, toasting in the oven with a bit of olive oil makes it even more decadent.
-- Experiment with red chili, lemongrass, ginger or even curry leaves for Asian flavours.
+- The cheaper the wine, the better it is. If you have a mediocre bottle that your stingy friend brought over that has been sitting around for ages, now is the time to open it.
+- This dish obviously goes down perfectly with dry white wine such as a Sauvignon Blanc, but a Belgian beer such as [Leffe](https://leffe.com/en/) would be great too.
+- The sourdough is ideal for mopping up the sauces. Toasting in the oven with a bit of olive oil makes it even more decadent.
+- Experiment with red chili, lemongrass, ginger or even curry leaves for an Asian twist.

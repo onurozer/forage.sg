@@ -3,7 +3,7 @@ date: 2020-05-21
 title: The Weeknight Grilled Chicken
 slug: the-weeknight-grilled-chicken
 cloudinary_id: recipes/the-weeknight-grilled-chicken
-description: Crowd pleaser chicken for the lazy and the practical
+description: Crowd pleaser for the lazy and the practical
 category: Food
 author: onur
 tags:
@@ -25,20 +25,20 @@ ingredients:
   - 3 tbsp olive oil, extra-virgin
 
 instructions:
+  - Mix all the spices and massage the chicken. Let the chicken rest uncovered in the fridge anywhere from 1 hour to 1 day.
   - Preheat your oven to 200c together with the cast-iron pan.
-  - Gently massage the chicken with the spice mix, let it rest anywhere from 1 hour to 1 day depending on how much time you have.
-  - In another bowl, mix all vegetables with a bit of olive oil, salt and pepper
+  - In another bowl, mix all vegetables with a bit of olive oil, salt and pepper.
   - Place your chicken in the middle of the pan, skin side down and vegetables on the side. Drizzle generously with the rest of the olive oil.
-  - Cook about 30-45 minutes, until the chicken is crispy yet juicy, and the vegetables are cooked yet tender.
+  - Cook about 40 minutes, until the chicken is crispy yet juicy, and the vegetables are cooked yet tender.
 ---
 
-Here’s another crowd pleaser for the lazy and the practical. This is the one grilled chicken recipe you’ll ever need. The key to success with this dish is a super hot cast-iron pan and lots of olive oil.
+This is the one grilled chicken recipe you’ll ever need. The key to success with this dish is a super hot cast-iron pan and lots of olive oil.
 
 <%= render "recipe_details", data: resource.data %>
 
 ## Tips & Tricks
 
-- You can use this recipe with any chicken part or the entire chicken, in which case make sure to rest the chicken a bit longer after the dry rub and use a bit more olive oil.
+- You can use an entire chicken, which will be just as tasty but everything from resting to cooking will take slightly longer.
 - Feel free to experiment with spices. Curry powder and crushed coriander seeds give a bit more asian flavour. Sichuan peppers and cayenne give it a nice little kick.
 - Raclette potatoes work exceptionally well with this dish. Quarter them for a chunky bite or use a mandoline slicer for that homemade potato chip vibe.
 - Leftover (if any) chicken makes a superb sandwich the next day. Serve in it a sandwich bread with Japanese mayo, sliced San Marzano tomatoes and a bit of lettuce. Heaven.

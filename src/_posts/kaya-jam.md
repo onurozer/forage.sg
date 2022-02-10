@@ -20,11 +20,11 @@ ingredients:
   - Pinch of salt to taste
 
 instructions:
-  - In a medium mixing metal bowl, stir eggs, sugar and coconut milk gently without creating bubbles into a smooth batter
-  - Add the pandan extract and salt and continue stirring with the whisk
-  - Make a bain-marie by placing the metal bowl on top of a sauce pan of similar size
-  - Heat water in the sauce pan on a low setting and gently stir the egg-coconut milk mixture with the whisk
-  - Stir the jam mixture continuously to prevent curdling,
+  - In a medium mixing metal bowl, stir eggs, sugar and coconut milk gently without creating bubbles into a smooth batter.
+  - Add the pandan extract and salt and continue stirring with the whisk.
+  - Make a bain-marie by placing the metal bowl on top of a sauce pan of similar size.
+  - Heat water in the sauce pan on a low setting and gently stir the egg-coconut milk mixture with the whisk.
+  - Stir the jam mixture continuously to prevent curdling.
   - Kaya jam is ready when the mixture thickens to the consistency of your choice, usually around the 45-60 minute mark.
 ---
 

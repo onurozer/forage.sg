@@ -3,7 +3,7 @@ date: 2020-05-24
 title: The Ultimate Bloody Mary
 slug: ultimate-bloody-mary
 cloudinary_id: recipes/ultimate-bloody-mary
-description: The most appropriate cocktail for raging hangovers.
+description: The mandatory cocktail for raging hangovers
 category: Cocktails
 ingredients:
   - 2oz (60ml) Bloody Mary mix
@@ -13,19 +13,19 @@ ingredients:
 
 instructions:
   - Combine the mix, tomato juice, lemon juice in a shaker with plenty of ice.
-  - Shake vigorously until cold, about 20 seconds
+  - Shake vigorously until cold, about 20 seconds.
   - Pour into a tall glass over ice, garnish with dill or celery and serve.
 ---
 
 There’s no cocktail more appropriate for a Sunday with a raging hangover than a Bloody Mary, and there’s no recipe more appropriate for a Bloody Mary than this one.
 
-The recipe has two main steps: making an infusion aka “Bloody Mary mix” which takes about 12 hours, and mixing the actual cocktail which takes about 90 seconds. The upfront time investment in preparing the mix pays dividends when you’re having the aforementioned hangover and want to get to your cocktail, quickly!
+The recipe has two main steps: making an infusion aka "Bloody Mary mix" which takes about 12 hours, and mixing the actual cocktail which takes about 90 seconds. The upfront time investment in preparing the mix pays dividends when you’re having the aforementioned hangover and want to get to your cocktail, quickly!
 
 The secret ingredient is the pickle juice. It adds a layer of complexity and depth that completely changes the character of the drink. The choice of vodka is not particularly important, but neutral Russian vodkas tend to work much better in this infusion compared to fancy French ones (looking at you grey goose).
 
-## The Mix
+## Homemade Bloodymary Mix
 
-For the mix, combine 200ml vodka, preferably [Russian Standard](http://www.russianstandardvodka.com/), 200ml pickle juice, 15 black peppercorns, 3 cloves of garlic, a pinch of salt, a few sprigs of dill and a few splash of hot sauce in a mason jar. Give it a good shake and refrigerate overnight, up to 2 days. Strain through a cheesecloth into a bottle and keep in the fridge for up to a month.
+Combine 200ml vodka –preferably [Russian Standard](http://www.russianstandardvodka.com/)– with 200ml pickle juice, 15 black peppercorns, 3 cloves of garlic, a pinch of salt, a few sprigs of dill and a few splash of hot sauce in a mason jar. Give it a good shake and refrigerate overnight, up to 2 days. Strain through a cheesecloth into a bottle and keep in the fridge for up to a month.
 
 <%= render "recipe_details", data: resource.data %>
 

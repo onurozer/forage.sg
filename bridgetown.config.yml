@@ -24,8 +24,8 @@ template_engine: erb
 collections:
   posts:
     permalink: /:title/
-    sort_by: date
-    sort_direction: descending
+    sort_by: title
+    sort_direction: ascending
 
 cloudinary:
   cloud_name: forage

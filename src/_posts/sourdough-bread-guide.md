@@ -3,7 +3,7 @@ date: 2020-06-09
 title: Sourdough Bread Guide
 slug: sourdough-bread-guide
 cloudinary_id: recipes/sourdough-bread-guide
-description: This article will save you time, but more importantly it will save you from sad bricks of bread.
+description: A freshly baked sourdough bread is a thing of beauty
 category: Bread
 author: onur
 tags:
@@ -12,23 +12,23 @@ tags:
   - bread
 ---
 
-A fresh sourdough out of the oven is a thing of beauty. The learning curve for working with sourdough is steep but rewarding. This is the article I wish I read when I started: it will save you time, but more importantly it will save you from sad, deflated dense breads. Ready? Here we go:
+The learning curve for working with sourdough is steep but rewarding. This is the guide I wish I read when I started. It will save you time, but more importantly it will save you from sad, deflated dense bricks of bread. Ready? Here we go:
 
 ## Overview
 
-All breads include four basic ingredients: flour, water, yeast and salt. There are two additional, equally important but rarely mentioned ingredients: time and temperature.
+All breads include four basic ingredients: flour, water, yeast and salt. There are two additional ingredients you'll rarely find in recipes: time and temperature.
 
 The key to having control over the sourdough baking process lies in understanding the relationship between the amount of yeast, time and temperature.
 
-When the dough is first mixed, the yeast starts consuming the natural sugar and starch in the flour and multiply. This process is called fermentation. The more starter you use, the faster the fermentation process will take. The dough temperature also impact fermentation sped – the higher the temperature, the faster the dough will ferment and rise.
+When the dough is first mixed, the yeast starts consuming the natural sugar and starch in the flour and multiply. This process is called [fermentation](https://en.wikipedia.org/wiki/Fermentation). The more starter you use, the faster the fermentation process will take. The dough temperature also impact fermentation speed – the higher the temperature, the faster the dough will ferment and rise.
 
-Faster fermentation results in lighter flavour. Slower, colder fermentation yields more complex flavours and slightly more sour bread. There’s no right or wrong here, the constraints are the flavour you’re seeking and the amount of time you have.
+Warmer, faster fermentation results in lighter flavour. Colder, slower fermentation yields more complex flavours and slightly more sour bread. There’s no right or wrong here, the constraints are the flavour you’re seeking and the amount of time you have.
 
 ## Tools
 
 Before you start, make sure you have the necessary tools. You can certainly try baking bread improvising with whatever tools you have at home, however, these will make your life much easier.
 
-- A digital scale, this is a must.
+- A digital scale, a must.
 - A stainless steel mixing bowl, around 30cm in diameter
 - [A plastic scraper](https://www.amazon.com/Ateco-1303-Bowl-Scraper/dp/B000KEUKO2) for scraping dough
 - A cast iron dutch oven. [Lodge Combo Cooker](https://www.amazon.com/Lodge-Cooker-Pre-seasoned-Skillet-Convertible/dp/B0009JKG9M) is fantastic for this purpose. [Le Creuset](http://www.lecreuset.com.sg/products/castiron/casseroles/round_french_oven#.XspTvC-w3UI) is a timeless classic but be prepared to spend, a lot.
@@ -39,39 +39,41 @@ Before you start, make sure you have the necessary tools. You can certainly try 
 
 ## Ingredients
 
-All the quantities in a bread recipe are represented as a percentage of total flour. This method is also called a “[Baker’s Percentage](https://en.wikipedia.org/wiki/Baker_percentage)“. This makes it easy to scale the recipes up and down.
+All the quantities in a bread recipe are represented as a percentage of total flour. This method is also called a [Baker’s Percentage](https://en.wikipedia.org/wiki/Baker_percentage). This makes it easy to scale the recipes up and down.
 
-Another important concept is hydration, specifically the ratio of water to flour. Higher hydration breads are light, fluffy and airy with open crumb, but they are harder to work with. The humidity in the air, the altitude of your kitchen and your flour choice all contribute to how far you can push the hydration, but 75% in this recipe is a high yet still manageable starting point for experimentation.
+Another important concept is hydration, specifically the ratio of water to flour. Higher hydration breads are light, fluffy and airy with open crumb, but they are harder to work with. The humidity in the air, the altitude of your kitchen and your flour choice all contribute to how far you can push the hydration. This recipe is 75%, which is high yet still relatively easy to work with.
 
 Finally, a key ingredient is “bread flour”, which has a protein content of minimum 12g and therefore able to build strength and hold its shape better than all purpose flour.
 
 The quantity below makes a reasonably sized bread for 2 people.
 
-| Day    | Instructions                                                          |
-| ------ | --------------------------------------------------------------------- |
-| Day 1  | Mix 100g dark rye flour and 125g water. Lightly cover with a cloth.   |
-| Day 2  | Keep 75g starter and discard the rest, add 100g flour and 115g water  |
-| Day 3  | Keep 75g starter and discard the rest, add 100g flour and 100g water  |
-| Day 4  | Same as Day 3. You should start seeing some bubbling action by now.   |
-| Day 5  | Same as Day 4. There may be liquid forming on top. Feel free to mix.  |
-| Day 6  | Same as Day 5.                                                        |
-| Day 7+ | Keep 50g starter and discard the rest, add 100g flour and 100g water. |
+| Weight | Ingredient                | Bakers Percentage |
+| ------ | ------------------------- | ----------------- |
+| 400g   | Bread Flour               | 100%              |
+| 300g   | Water                     | 75%               |
+| 100g   | Yeast (Sourdough Starter) | 25%               |
+| 8g     | Salt                      | 2%                |
 
 ## Instructions
 
-As discussed above, the exact timing depends on a few factors such as maturity and amount of starter in the dough, the room temperature, etc. That said, the instructions below are a good guideline for starting in the morning and having the bread ready for dinner.
+The exact timing depends on a few factors such as maturity and amount of starter in the dough, the room temperature, etc. The timetable below is a good guideline for starting in the morning and having the bread ready for dinner.
 
-| Day    | Instructions                                                          |
-| ------ | --------------------------------------------------------------------- |
-| Day 1  | Mix 100g dark rye flour and 125g water. Lightly cover with a cloth.   |
-| Day 2  | Keep 75g starter and discard the rest, add 100g flour and 115g water  |
-| Day 3  | Keep 75g starter and discard the rest, add 100g flour and 100g water  |
-| Day 4  | Same as Day 3. You should start seeing some bubbling action by now.   |
-| Day 5  | Same as Day 4. There may be liquid forming on top. Feel free to mix.  |
-| Day 6  | Same as Day 5.                                                        |
-| Day 7+ | Keep 50g starter and discard the rest, add 100g flour and 100g water. |
+| Time   | Step              | Description                                       |
+| ------ | ----------------- | ------------------------------------------------- |
+| 11pm   | Feed Starter      | Feed your starter the night before baking         |
+| 7am    | Autolyse          | Mix flour & water, keep covered for 45 mins       |
+| 7:45am | Mix               | Add starter and salt, mix well, cover             |
+| 8am    | Stretch and Fold  | Stretch and folder every 20 minutes, 3 times      |
+| 9am    | Bulk Fermentation | Let dough rest covered until bubbly               |
+| 2pm    | Bench Rest        | Let rest for 30 minutes on the counter, uncovered |
+| 2:20pm | Shape             | Shape into a boule or a batard                    |
+| 2:30pm | Proof             | Proof in proofing basket                          |
+| 3:30pm | Preheat Oven      | 245c with the dutch oven inside                   |
+| 4pm    | Bake              | 25min covered, 25 min uncovered                   |
+| 5pm    | Cool              | Rest on counter with air circulation              |
+| 7pm    | Slice             | Slice and eat, keep rest in freezer               |
 
-## Recipe
+## Stages
 
 ### Autolyse
 
@@ -85,7 +87,7 @@ Once the autolyse is complete, add the salt and the starter into your bowl and k
 
 ### Stretch and Fold
 
-The ability of the dough to hold its shape is referred to as “strength”, and it’s a result of well formed gluten strands in the dough. The stretching and folding of the dough aligns, extends and strengthens these gluten bonds.
+The ability of the dough to hold its shape is referred to as "strength", and it’s a result of well formed gluten strands in the dough. The stretching and folding of the dough aligns, extends and strengthens these gluten bonds.
 
 To do this, lightly wet your hand and hold the dough from one side. Lift up and stretch as much you can without tearing the dough, and fold it onto itself. Turn the bowl clockwise 90 degrees and repeat. Do this until all you’ve done all 4 sides, cover with towel and let it rest. Repeat this process every 20 minutes until the dough starts to hold its shape and resist stretching, about 3 times over the course of an hour.
 
@@ -114,7 +116,7 @@ Bake for 25 minutes with the lid on. After 25 minutes, take the lid off, reduce 
 ## Tips & Tricks
 
 - Play around with introducing different flours in small quantities to experiment with flavours. Whole wheat, rye, spelt are all great options. Keep in mind that each flour behaves and holds water differently.
-- Resist the urge to add flour if the dough is sticky. Learn to love the dough the process.
+- Resist the urge to add flour if the dough is sticky. Learn to love the dough.
 - During shaping, handle the dough as little and as quickly as possible.
 - Once you’re comfortable with the base recipe, consider adding dried fruits, seeds and nuts to expand your sourdough bread portfolio.
 - The best way to keep the fresh bread is sliced, in a zipper bag in the freezer. You can transfer straight from the freezer into the toaster and have fresh bread for up to a month!

@@ -26,11 +26,11 @@ ingredients:
   - 3/4 tsp vanilla extract
 
 instructions:
-  - Preheat oven to 180°C and place rack in the centre of the oven
-  - Brush the insides of a baking loaf tin with canola oil and set aside
+  - Preheat oven to 180°C and place rack in the centre of the oven.
+  - Brush the insides of a baking loaf tin with canola oil and set aside.
   - In a large mixing bowl, dry whisk together the flour, sugar, baking powder, baking soda and salt.
   - In another large mixing bowl, whisk the eggs, mashed bananas, water, milk, oil and vanilla extract – in no particular order.
-  - Now add the wet ingredients to the bowl of dry ingredients and whisk until all combined. The batter is quite thin here, don’t worry.
+  - Add the wet ingredients to the bowl of dry ingredients and whisk until all combined. The batter is quite thin here, don’t worry.
   - Pour the batter into the oil-brushed loaf tin and bake for 40-45mins.
   - Insert a skewer or bamboo stick into the centre of the cake to check for doneness. If the stick comes out still with wet batter, continue baking for another 5-10mins.
   - If the skewer comes out clean, remove the loaf tin from the oven and let it cool on a wire rack.
