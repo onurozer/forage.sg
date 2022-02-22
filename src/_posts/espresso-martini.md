@@ -31,4 +31,4 @@ The choice of coffee liqueur plays an important part in this recipe, and again, 
 
 - Switch your coffee on a Sunday brunch with this Espresso martini, for an arguably much more enjoyable brunch.
 - Add a splash of sugar syrup before shaking if you like your cocktails sweet.
-- Plot twitst: Try the [St. George Green Chile Vodka](http://www.stgeorgespirits.com/spirits/vodka/st-george-green-chile-vodka/) in this recipe for a plot twist.
+- Plot twist: Try the [St. George Green Chile Vodka](http://www.stgeorgespirits.com/spirits/vodka/st-george-green-chile-vodka/) in this recipe.
