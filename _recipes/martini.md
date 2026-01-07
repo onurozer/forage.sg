@@ -2,7 +2,6 @@
 date: 2018-02-04
 title: Martini
 slug: martini
-cloudinary_id: recipes/martini
 description: The best cocktail in the history of cocktails, ever.
 categories: Cocktails
 author: onurozer

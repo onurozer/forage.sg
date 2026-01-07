@@ -2,7 +2,6 @@
 date: 2020-07-01
 title: Sourdough Olive Oil Crackers
 slug: sourdough-olive-oil-crackers
-cloudinary_id: recipes/sourdough-discard-olive-oil-crackers
 description: The perfect companion to cheese plates
 categories: Bread
 author: onurozer

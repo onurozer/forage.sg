@@ -1,4 +1,61 @@
-<p>This dish is called “Çılbır” (pronounced chill-brr) in Turkey. Apparently, is has been a <a href="https://en.wikipedia.org/wiki/Çılbır">big hit among Ottoman sultans</a> since the 15th century. It features some of the recurring themes in Turkish cuisine, such as garlic yoghurt, chili butter and parsley.</p>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    
+  
+  </head>
+  <body class="text-xl text-gray-900">
+    <div class="flex flex-col min-h-screen p-6">
+      <header>
+  <nav>
+    <div class="">
+      <a href="/" class="">Home</a>
+      <a href="/recipes" class="font-bold">Recipes</a>
+      <a href="/about" class="">About</a>
+    </div>
+  </nav>
+</header>
+      <main class="grow py-8">
+        <div class="max-w-3xl">
+          <article>
+    <!-- Image -->
+  <img
+    src="/assets/images/recipes/turkish-eggs.jpg"
+    alt="Turkish Eggs"
+    width="1600"
+    height="900">
+  <!-- Header -->
+  <header class="text-center py-12 px-6">
+    <!-- Metadata -->
+    <p class="meta text-sm text-gray-500 mb-3">
+      
+        <span class="category text-pink-500">
+          <a href="/#Brunch">Brunch</a>
+        </span>
+        &bull;
+      
+      <time class="" datetime="2020-27-06">
+        June 2020
+      </time>
+      
+        &bull;
+        <span class="author">Onur Ozer</span>
+      
+    </p>
+    <!-- Title and Subtitle -->
+    <h1 class="font-heading text-4xl sm:text-5xl mb-3 font-black">
+      Turkish Eggs
+    </h1>
+    <p class="tagline text-2xl mx-auto mb-3">
+      An eggsplosion of flavours.
+    </p>
+  </header>
+  <!-- Content -->
+  <div class="max-w-4xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
+    <p>This dish is called “Çılbır” (pronounced chill-brr) in Turkey. Apparently, is has been a <a href="https://en.wikipedia.org/wiki/Çılbır">big hit among Ottoman sultans</a> since the 15th century. It features some of the recurring themes in Turkish cuisine, such as garlic yoghurt, chili butter and parsley.</p>
 
 <p>The most popular egg dish in Turkey is actually <a href="https://en.wikipedia.org/wiki/Menemen_(food)">Menemen</a>, so I’m not exactly sure how this dish stole the spotlight. I blame the food bloggers.</p>
 
@@ -7,3 +64,20 @@
 <p>&lt;%= render “recipe_details”, data: resource.data %&gt;</p>
 
 <p>This dish goes perfectly with toasted &lt;%= link_to “sourdough bread”, “_posts/sourdough-bread-guide.md” %&gt;.</p>
+
+  </div>
+  <div class="text-center mb-12">
+    <a href="http://localhost:4000" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">← Back</a>
+    <a href="#" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">↑ Top</a>
+  </div>
+</article>
+        </div>
+      </main>
+      <footer class="text-sm">
+        <p class="mb-1">
+  © 2026 Company. All rights reserved.
+</p>
+      </footer>
+    </div>
+  </body>
+</html>

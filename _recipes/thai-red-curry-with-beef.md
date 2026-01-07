@@ -2,7 +2,6 @@
 date: 2020-06-03
 title: Thai Red Curry with Beef
 slug: thai-red-curry-with-beef
-cloudinary_id: recipes/thai-red-curry-with-beef
 description: The flavour without the grind
 servings: 2
 duration: 45 minutes

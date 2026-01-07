@@ -2,7 +2,6 @@
 date: 2020-05-23
 title: Thai Basil Chicken
 slug: thai-basil-chicken
-cloudinary_id: recipes/thai-basil-chicken
 description: From the gritty streets of Bangkok
 categories: Food
 author: audreychong

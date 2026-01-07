@@ -1,7 +1,81 @@
-<p>This cake gets its name from the distinct honeycomb-like structure in its cross-section. The honeycomb is a result of expanding hot air tunnelling through the tapioca batter, yielding a texture that is fluffy and bouncy.</p>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    
+  
+  </head>
+  <body class="text-xl text-gray-900">
+    <div class="flex flex-col min-h-screen p-6">
+      <header>
+  <nav>
+    <div class="">
+      <a href="/" class="">Home</a>
+      <a href="/recipes" class="font-bold">Recipes</a>
+      <a href="/about" class="">About</a>
+    </div>
+  </nav>
+</header>
+      <main class="grow py-8">
+        <div class="max-w-3xl">
+          <article>
+    <!-- Image -->
+  <img
+    src="/assets/images/recipes/pandan-honeycomb-cake.jpg"
+    alt="Pandan Honeycomb Cake"
+    width="1600"
+    height="900">
+  <!-- Header -->
+  <header class="text-center py-12 px-6">
+    <!-- Metadata -->
+    <p class="meta text-sm text-gray-500 mb-3">
+      
+        <span class="category text-pink-500">
+          <a href="/#Cakes">Cakes</a>
+        </span>
+        &bull;
+      
+      <time class="" datetime="2020-11-05">
+        May 2020
+      </time>
+      
+        &bull;
+        <span class="author">Audrey Chong</span>
+      
+    </p>
+    <!-- Title and Subtitle -->
+    <h1 class="font-heading text-4xl sm:text-5xl mb-3 font-black">
+      Pandan Honeycomb Cake
+    </h1>
+    <p class="tagline text-2xl mx-auto mb-3">
+      Uniquely chewy and popular Vietnamese cake
+    </p>
+  </header>
+  <!-- Content -->
+  <div class="max-w-4xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
+    <p>This cake gets its name from the distinct honeycomb-like structure in its cross-section. The honeycomb is a result of expanding hot air tunnelling through the tapioca batter, yielding a texture that is fluffy and bouncy.</p>
 
 <p>You can make this cake with a number of flavours, but Pandan is the most common and by far the best complement to the coconut milk. When baked, Pandan fills the house with such a wonderful aroma that builds up the anticipation of a delicious afternoon snack.</p>
 
 <p>&lt;%= render “recipe_details”, data: resource.data %&gt;</p>
 
 <p>This cake is best enjoyed fresh, and it can keep for up to 2 days. Bon appetit!</p>
+
+  </div>
+  <div class="text-center mb-12">
+    <a href="http://localhost:4000" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">← Back</a>
+    <a href="#" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">↑ Top</a>
+  </div>
+</article>
+        </div>
+      </main>
+      <footer class="text-sm">
+        <p class="mb-1">
+  © 2026 Company. All rights reserved.
+</p>
+      </footer>
+    </div>
+  </body>
+</html>

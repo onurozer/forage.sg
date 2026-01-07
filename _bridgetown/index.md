@@ -2,7 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
-cloudinary_id: recipes/martini
 ---
 
 <h1 class="text-4xl mb-9 font-extrabold text-center hidden">All Posts</h1>

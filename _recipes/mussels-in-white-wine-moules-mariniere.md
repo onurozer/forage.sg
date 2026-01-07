@@ -2,7 +2,6 @@
 date: 2020-05-31
 title: "Mussels in White Wine"
 slug: mussels-in-white-wine-moules-mariniere
-cloudinary_id: recipes/mussels-in-white-wine-moules-mariniere
 description: Decadent seafood dinner without the effort
 categories: Food
 author: onurozer

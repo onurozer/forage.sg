@@ -1,7 +1,81 @@
-<p>The traditional dorayaki is a sweet Japanese treat made of azuki red bean paste sandwiched between two slices of fluffy honey pancakes. So with my obsession of all things pandan (the quintessential Asian vanilla), I thought of giving this popular Japanese snack my Singaporean twist.</p>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    
+  
+  </head>
+  <body class="text-xl text-gray-900">
+    <div class="flex flex-col min-h-screen p-6">
+      <header>
+  <nav>
+    <div class="">
+      <a href="/" class="">Home</a>
+      <a href="/recipes" class="font-bold">Recipes</a>
+      <a href="/about" class="">About</a>
+    </div>
+  </nav>
+</header>
+      <main class="grow py-8">
+        <div class="max-w-3xl">
+          <article>
+    <!-- Image -->
+  <img
+    src="/assets/images/recipes/kaya-dorayaki.jpg"
+    alt="Kaya Dorayaki"
+    width="1600"
+    height="900">
+  <!-- Header -->
+  <header class="text-center py-12 px-6">
+    <!-- Metadata -->
+    <p class="meta text-sm text-gray-500 mb-3">
+      
+        <span class="category text-pink-500">
+          <a href="/#Cakes">Cakes</a>
+        </span>
+        &bull;
+      
+      <time class="" datetime="2020-03-07">
+        July 2020
+      </time>
+      
+        &bull;
+        <span class="author">Audrey Chong</span>
+      
+    </p>
+    <!-- Title and Subtitle -->
+    <h1 class="font-heading text-4xl sm:text-5xl mb-3 font-black">
+      Kaya Dorayaki
+    </h1>
+    <p class="tagline text-2xl mx-auto mb-3">
+      Japanese pancakes with a Singaporean twist
+    </p>
+  </header>
+  <!-- Content -->
+  <div class="max-w-4xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
+    <p>The traditional dorayaki is a sweet Japanese treat made of azuki red bean paste sandwiched between two slices of fluffy honey pancakes. So with my obsession of all things pandan (the quintessential Asian vanilla), I thought of giving this popular Japanese snack my Singaporean twist.</p>
 
 <p>The pancakes are made with pandan and coconut milk while the filling –what else– &lt;%= link_to “pandan kaya”, “_posts/kaya-jam.md” %&gt;! It is without a doubt, gobsmackingly delicious! It’s so hard to resist “taste-testing” them as soon as they come off the pan.</p>
 
 <p>&lt;%= render “recipe_details”, data: resource.data %&gt;</p>
 
 <p>Alternatively you can, spread the kaya on one pancake and place another cake over like a sandwich. Or if you like a more buttery taste, you can spread butter on the pancake right after it comes off the pan and then spread the kaya. Bon appetit!</p>
+
+  </div>
+  <div class="text-center mb-12">
+    <a href="http://localhost:4000" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">← Back</a>
+    <a href="#" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">↑ Top</a>
+  </div>
+</article>
+        </div>
+      </main>
+      <footer class="text-sm">
+        <p class="mb-1">
+  © 2026 Company. All rights reserved.
+</p>
+      </footer>
+    </div>
+  </body>
+</html>

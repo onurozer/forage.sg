@@ -2,7 +2,6 @@
 date: 2020-07-08
 title: Cheese Plate Guide
 slug: cheese-plate-guide
-cloudinary_id: recipes/cheese-plate-guide
 description: Battle-tested lessons on putting together ultimate cheese plates.
 categories: Food
 author: onurozer

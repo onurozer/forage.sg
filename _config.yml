@@ -28,6 +28,6 @@ defaults:
     values:
       layout: default
   - scope:
-      path: _posts/
+      path: _recipes/
     values:
-      layout: post
+      layout: recipe
