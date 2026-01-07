@@ -15,7 +15,8 @@ Cheese plates are great because they are practical, they go perfectly with wine 
 ## Board
 
 Board selection is a direct function of two parameters: size and fanciness. Black slates and wooden boards look great but they are hard to clean. Ceramic is practical but not particularly attractive. All said, in a cheese plate emergency, even a hotel plate will do.
-![Cheese Plate](/images/cheese-plate-woodlark.jpeg)
+
+![Cheese Plate](/assets/images/recipes/cheese-plate-woodlark.jpeg)
 _An impromptu aperitif hour with local cheese and wine selection at the [Woodlark hotel](https://woodlarkhotel.com/) in Portland, Oregon._
 
 ## Cheese
@@ -30,7 +31,7 @@ Saucisson is the clear winner here, closely followed by prosciutto and jamón. C
 
 The acidity in fruits help balance the fattiness of cheese. Always choose fruits that are fresh and in season. Grapes are the poster child of cheese plate fruits, but figs and peaches are amazing as well. In the nuts department, walnuts are always an excellent choice, followed by almonds and hazelnuts.
 
-![Cheese Plate](/images/cheese-plate-urla.jpeg)
+![Cheese Plate](/assets/images/recipes/cheese-plate-urla.jpeg)
 _Another cheese plate put together on short notice with local produce from nearby villages while staying at [Two Rooms Hotel](http://www.2roomshotel.com/) inside the [Urla Vineyard](http://www.urlasarapcilik.com.tr/en-US) in Turkey._
 
 ## Crackers & Bread
