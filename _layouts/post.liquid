@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article class="">
+  <header>
+    <time class="text-sm" datetime="{{ page.date | date: "%Y-%d-%m" }}">
+      {{ page.date | date: "%b %d, %Y" }}
+    </time>
+    <h1 class="mb-8 text-4xl font-extrabold tracking-tight">{{ page.title }}</h1>
+  </header>
+  {{ content }}
+</article>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+    {% if jekyll.environment == "production" %}
+    {% endif %}
+  {% comment %}
+    {% seo %}
+  {% endcomment %}
+  </head>
+  <body class="text-xl text-gray-900">
+    <div class="flex flex-col min-h-screen p-6">
+      {% include header.liquid %}
+      <main class="grow py-8">
+        <div class="max-w-3xl">
+          {{ content }}
+        </div>
+      </main>
+      <footer class="text-sm">
+        {% include footer.liquid %}
+      </footer>
+    </div>
+  </body>
+</html>

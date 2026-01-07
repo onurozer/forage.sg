@@ -1,0 +1,32 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "" # the name of your site, e.g. ACME Corp.
+
+author:
+  name: John Smith
+
+permalink: /:title/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+timezone: Asia/Singapore
+
+exclude:
+  - README.md
+
+defaults:
+  # - scope:
+  #     path: ""
+  #   values:
+  #     image: /assets/images/open-graph/default.png
+  - scope:
+      path: _pages/
+    values:
+      layout: default
+  - scope:
+      path: _posts/
+    values:
+      layout: post

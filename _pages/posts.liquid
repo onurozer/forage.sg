@@ -1,0 +1,13 @@
+---
+title: Posts
+layout: page
+---
+
+<ul class="mb-8">
+
+  {% for post in site.posts %}
+    <li class="pl-3 ml-8 list-disc">
+      <a href="{{ post.url }}" class="">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

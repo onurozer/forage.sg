@@ -1,0 +1,9 @@
+<header>
+  <nav>
+    <div class="">
+      <a href="/" class="{% if page.slug == "index" %}font-bold{% endif %}">Home</a>
+      <a href="/posts" class="{% if page.slug == "posts" or page.layout == "post" %}font-bold{% endif %}">Posts</a>
+      <a href="/about" class="{% if page.slug == "about" %}font-bold{% endif %}">About</a>
+    </div>
+  </nav>
+</header>
