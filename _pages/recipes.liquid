@@ -1,0 +1,14 @@
+---
+title: Recipes
+layout: page
+---
+
+
+<ul class="mb-8">
+
+  {% for recipe in site.recipes %}
+    <li class="pl-3 ml-8 list-disc">
+      <a href="{{ recipe.url }}" class="">{{ recipe.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
