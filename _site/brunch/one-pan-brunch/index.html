@@ -57,7 +57,54 @@
   <div class="max-w-4xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
     <p>The ideal time for this is a Sunday morning, although technically any day would work. The beauty of the recipe is that as far as ingredients are concerned, pretty much anything goes.</p>
 
-<p>&lt;%= render “recipe_details”, data: resource.data %&gt;</p>
+<div class="recipe-details sm:flex sm:content-start sm:max-w-5xl sm:mx-auto not-prose bg-gradient-to-t from-gray-100 to-gray-50 rounded-xl shadow-sm p-6 sm:p-9">
+  <div class="ingredients sm:pr-6 sm:mr-6 mb-12 sm:w-1/3">
+    <h2 class="text-2xl font-bold mb-6">Ingredients</h2>
+    <ul class="pl-0 flex flex-col space-y-4">
+      
+        <li class="list-none pl-0">2-3 bacon</li>
+      
+        <li class="list-none pl-0">2-3 eggs</li>
+      
+        <li class="list-none pl-0">1/2 can of baked beans</li>
+      
+        <li class="list-none pl-0">6-8 Swiss button mushrooms, quartered</li>
+      
+        <li class="list-none pl-0">2-3 tbsp olive oil</li>
+      
+        <li class="list-none pl-0">A stalk of cherry tomatoes</li>
+      
+        <li class="list-none pl-0">A splash of lemon juice</li>
+      
+        <li class="list-none pl-0">A spoonful of parsley, finely minced</li>
+      
+        <li class="list-none pl-0">Salt and pepper</li>
+      
+        <li class="list-none pl-0">A pinch of cayenne pepper</li>
+      
+    </ul>
+  </div>
+  <div class="instructions pb-6 sm:w-2/3">
+    <h2 class="text-2xl font-bold mb-6">Instructions</h2>
+    <ol class="list-none pl-0 flex flex-col space-y-6">
+      
+        <li class="pl-0">Cook bacon on a wide cast-iron skillet with a bit of olive oil, for a few minutes.</li>
+      
+        <li class="pl-0">Add mushrooms with more olive oil, cook until they start to release water.</li>
+      
+        <li class="pl-0">Add beans and reheat, for 3-5 mins.</li>
+      
+        <li class="pl-0">Crack eggs in the middle of the pan, cook until whites are set, about 3-5 mins.</li>
+      
+        <li class="pl-0">Add tomatoes together with eggs, lightly grill.</li>
+      
+        <li class="pl-0">Season mushrooms with lemon juice and parsley, eggs with cayenne pepper and everything except bacon with salt &amp; pepper.</li>
+      
+        <li class="pl-0">Serve directly on the pan!</li>
+      
+    </ol>
+  </div>
+</div>
 
 <h2 id="tips--tricks">Tips &amp; Tricks</h2>
 

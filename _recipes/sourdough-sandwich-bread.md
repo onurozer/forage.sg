@@ -34,9 +34,11 @@ instructions:
 
 From the internet to the airplane, there are many great American inventions that changed the world, but one of them is more popular than all the others: The Sandwich. Whether it's a BLT or a grilled cheese, there's no sandwich that wouldn't improve with a better bread. Here's a recipe to honour the under appreciated star of the show.
 
-Most sandwich breads use commercial yeast for speed and fluffiness, whereas this recipe elevates it to the next level with the <%= link_to "sourdough starter", "\_posts/sourdough-starter-guide.md" %>. The olive oil helps the bread stay fresh longer, and the honey balances the sourness against the saltiness.
+Most sandwich breads use commercial yeast for speed and fluffiness, whereas this recipe elevates it to the next level with the [sourdough starter]({% link _recipes/sourdough-starter-guide.md %}). The olive oil helps the bread stay fresh longer, and the honey balances the sourness against the saltiness.
 
-<%= render "recipe_details", data: resource.data %>
+{% link _recipes/sourdough-starter-guide.md %}
+
+{% include _recipe_details.liquid data=page %}
 
 ## Tips & Tricks
 

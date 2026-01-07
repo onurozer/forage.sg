@@ -33,8 +33,8 @@ instructions:
 
 The traditional dorayaki is a sweet Japanese treat made of azuki red bean paste sandwiched between two slices of fluffy honey pancakes. So with my obsession of all things pandan (the quintessential Asian vanilla), I thought of giving this popular Japanese snack my Singaporean twist.
 
-The pancakes are made with pandan and coconut milk while the filling –what else– <%= link_to "pandan kaya", "\_posts/kaya-jam.md" %>! It is without a doubt, gobsmackingly delicious! It’s so hard to resist “taste-testing” them as soon as they come off the pan.
+The pancakes are made with pandan and coconut milk while the filling –what else– [pandan kaya]({% link _recipes/kaya-jam.md %})! It is without a doubt, gobsmackingly delicious! It’s so hard to resist “taste-testing” them as soon as they come off the pan.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 Alternatively you can, spread the kaya on one pancake and place another cake over like a sandwich. Or if you like a more buttery taste, you can spread butter on the pancake right after it comes off the pan and then spread the kaya. Bon appetit!

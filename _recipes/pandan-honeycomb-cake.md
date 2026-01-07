@@ -34,6 +34,6 @@ This cake gets its name from the distinct honeycomb-like structure in its cross-
 
 You can make this cake with a number of flavours, but Pandan is the most common and by far the best complement to the coconut milk. When baked, Pandan fills the house with such a wonderful aroma that builds up the anticipation of a delicious afternoon snack.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 This cake is best enjoyed fresh, and it can keep for up to 2 days. Bon appetit!

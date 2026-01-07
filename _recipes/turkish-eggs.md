@@ -34,6 +34,6 @@ The most popular egg dish in Turkey is actually [Menemen](<https://en.wikipedia.
 
 The recipe calls for "Pul Biber" (Aleppo pepper flakes) which are hugely popular in Turkey, but the average chili flakes will also work.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
-This dish goes perfectly with toasted <%= link_to "sourdough bread", "\_posts/sourdough-bread-guide.md" %>.
+This dish goes perfectly with toasted [sourdough bread]({% link _recipes/sourdough-bread-guide.md %}).

@@ -24,7 +24,7 @@ Australians have a knack when it comes to mixing otherwise innocent beverages wi
 
 The choice of coffee liqueur plays an important part in this recipe, and again, Australians rule in the coffee liqueur department. I highly recommend [Mr. Black](https://mrblack.co/row/products/coffee-liqueur/) from Sydney, a cold brew coffee liqueur that makes excellent espresso martinis. [Unico Caffé](https://www.applewooddistillery.com.au/collections/shop/products/unico-cello-caffe-500ml-20-abv) from Applewood Distillery in Adelaide is another great example, and a bit sweeter. Of course, you can always use Kahlúa in an emergency, but remember that I will secretly judge you.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 ## Tips & Tricks
 

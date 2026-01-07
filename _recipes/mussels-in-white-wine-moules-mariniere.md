@@ -36,7 +36,7 @@ Are you in the mood for seafood dinner, but don’t feel like to putting in the 
 
 The star of this dish is the mussels, so make sure you get the freshest ones you can find. The [New Zealand Green Mussels](https://en.wikipedia.org/wiki/Perna_canaliculus) are amazing with this recipe, but the common [Blue Mussels](https://en.wikipedia.org/wiki/Blue_mussel) would work just fine too.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 ## Tips & Tricks
 

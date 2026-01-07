@@ -57,7 +57,34 @@
   <div class="max-w-4xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
     <p>The first time I got introduced to the Negroni was many years ago in an oyster bar in New York, when the guy next to me ordered this mysterious concoction in the early afternoon. Turns out he knew what he was doing: Negroni is one of those cocktails that go perfectly at any time of the day. Luckily, it’s also easy to make and infinitely modifiable.</p>
 
-<p>&lt;%= render “recipe_details”, data: resource.data %&gt;</p>
+<div class="recipe-details sm:flex sm:content-start sm:max-w-5xl sm:mx-auto not-prose bg-gradient-to-t from-gray-100 to-gray-50 rounded-xl shadow-sm p-6 sm:p-9">
+  <div class="ingredients sm:pr-6 sm:mr-6 mb-12 sm:w-1/3">
+    <h2 class="text-2xl font-bold mb-6">Ingredients</h2>
+    <ul class="pl-0 flex flex-col space-y-4">
+      
+        <li class="list-none pl-0">1 oz. Gin</li>
+      
+        <li class="list-none pl-0">1 oz. Campari</li>
+      
+        <li class="list-none pl-0">1 oz. Sweet Vermouth</li>
+      
+        <li class="list-none pl-0">Orange Peel</li>
+      
+    </ul>
+  </div>
+  <div class="instructions pb-6 sm:w-2/3">
+    <h2 class="text-2xl font-bold mb-6">Instructions</h2>
+    <ol class="list-none pl-0 flex flex-col space-y-6">
+      
+        <li class="pl-0">Stir Gin, Campari and Vermouth in a mixing glass over ice.</li>
+      
+        <li class="pl-0">Serve on a chilled rocks glass over a single, big ice cube or sphere.</li>
+      
+        <li class="pl-0">Garnish with orange peel and serve.</li>
+      
+    </ol>
+  </div>
+</div>
 
 <h2 id="playing-around">Playing Around</h2>
 

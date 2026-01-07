@@ -61,9 +61,44 @@
 
 <p>If that sounds like your kind of jam, then you’ll surely love this recipe.</p>
 
-<p>&lt;%= render “recipe_details”, data: resource.data %&gt;</p>
+<div class="recipe-details sm:flex sm:content-start sm:max-w-5xl sm:mx-auto not-prose bg-gradient-to-t from-gray-100 to-gray-50 rounded-xl shadow-sm p-6 sm:p-9">
+  <div class="ingredients sm:pr-6 sm:mr-6 mb-12 sm:w-1/3">
+    <h2 class="text-2xl font-bold mb-6">Ingredients</h2>
+    <ul class="pl-0 flex flex-col space-y-4">
+      
+        <li class="list-none pl-0">3 eggs</li>
+      
+        <li class="list-none pl-0">150ml coconut milk</li>
+      
+        <li class="list-none pl-0">120g sugar</li>
+      
+        <li class="list-none pl-0">30 ml homemade pandan extract (1/8 tsp if using store-bought extract)</li>
+      
+        <li class="list-none pl-0">Pinch of salt to taste</li>
+      
+    </ul>
+  </div>
+  <div class="instructions pb-6 sm:w-2/3">
+    <h2 class="text-2xl font-bold mb-6">Instructions</h2>
+    <ol class="list-none pl-0 flex flex-col space-y-6">
+      
+        <li class="pl-0">In a medium mixing metal bowl, stir eggs, sugar and coconut milk gently without creating bubbles into a smooth batter.</li>
+      
+        <li class="pl-0">Add the pandan extract and salt and continue stirring with the whisk.</li>
+      
+        <li class="pl-0">Make a bain-marie by placing the metal bowl on top of a sauce pan of similar size.</li>
+      
+        <li class="pl-0">Heat water in the sauce pan on a low setting and gently stir the egg-coconut milk mixture with the whisk.</li>
+      
+        <li class="pl-0">Stir the jam mixture continuously to prevent curdling.</li>
+      
+        <li class="pl-0">Kaya jam is ready when the mixture thickens to the consistency of your choice, usually around the 45-60 minute mark.</li>
+      
+    </ol>
+  </div>
+</div>
 
-<p>Kaya jam goes on practically anything you can dream of, but for a true “comfort food” experience, spread it on a &lt;%= link_to “toasted bread”, “_posts/sourdough-sandwich-bread.md” %&gt; with a slab of butter on top for breakfast! The kaya jam should last 1-2 weeks in the fridge.</p>
+<p>Kaya jam goes on practically anything you can dream of, but for a true “comfort food” experience, spread it on a <a href="/bread/sourdough-sandwich-bread/">toasted bread</a> with a slab of butter on top for breakfast! The kaya jam should last 1-2 weeks in the fridge.</p>
 
   </div>
   <div class="text-center mb-12">

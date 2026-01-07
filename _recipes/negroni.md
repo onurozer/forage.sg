@@ -22,7 +22,7 @@ instructions:
 
 The first time I got introduced to the Negroni was many years ago in an oyster bar in New York, when the guy next to me ordered this mysterious concoction in the early afternoon. Turns out he knew what he was doing: Negroni is one of those cocktails that go perfectly at any time of the day. Luckily, it’s also easy to make and infinitely modifiable.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 ## Playing Around
 

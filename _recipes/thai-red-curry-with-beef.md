@@ -41,6 +41,6 @@ instructions:
 
 Making your own authentic Thai curry at home doesn’t have to be a daunting affair. With so many ready-to-use paste brands, you can simply use it as a base and build up layers of flavours with other ingredients. This little "cheat"s eliminates the need to make your paste from scratch! To make the beef easier to slice, you can put it in the freezer for 15 minutes prior to cutting.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 Serve the red curry with beef over fragrant Thai Jasmine rice and enjoy! This recipe also works great with lamb or duck, so feel free to experiment with other red meat.

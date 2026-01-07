@@ -31,6 +31,6 @@ instructions:
 
 For a symphonic Italian opera for your taste buds, pair fresh tomatoes with hand-shredded sweet basil leaves, punchy garlic and a sourdough slice hot out of the oven. Drizzle some extra virgin olive oil, sprinkle some sea salt and you’ll be hearing Pavarotti in your kitchen!
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 Drizzle the bruschetta with the remaining olive oil, sprinkle a pinch of sea salt and enjoy!

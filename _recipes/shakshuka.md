@@ -40,9 +40,9 @@ This is the quintessential mediterranean brunch dish, although it works pretty w
 
 This recipe is a very flexible, customize it to your heart’s content. There’s no meat here, but adding chorizo or bacon is highly encouraged. The yogurt helps balance out the spice, but feta cheese does wonders too.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
-Don’t forget to serve it with crusty, toasted <%= link_to "sourdough bread", "\_posts/sourdough-bread-guide.md" %>, otherwise the shakshuka police will hunt you down.
+Don’t forget to serve it with crusty, toasted [sourdough bread]({% link _recipes/sourdough-bread-guide.md %}), otherwise the shakshuka police will hunt you down.
 
 ## Tips & Tricks
 

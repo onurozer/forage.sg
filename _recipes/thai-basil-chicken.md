@@ -35,6 +35,6 @@ instructions:
 
 The punchy aromas of this quintessential street food beckons at every other corner as you walk through the busy and gritty streets of Bangkok. This dish is a go-to comfort food that can be cooked up in a flash with a lingering "fire-in-the-belly" sensation.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 To serve, spoon the chicken over a bed of steaming Jasmine rice and place the fried egg on top. Garnish with a sprig of Thai basil leaves and enjoy.

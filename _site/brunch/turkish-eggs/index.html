@@ -61,9 +61,46 @@
 
 <p>The recipe calls for “Pul Biber” (Aleppo pepper flakes) which are hugely popular in Turkey, but the average chili flakes will also work.</p>
 
-<p>&lt;%= render “recipe_details”, data: resource.data %&gt;</p>
+<div class="recipe-details sm:flex sm:content-start sm:max-w-5xl sm:mx-auto not-prose bg-gradient-to-t from-gray-100 to-gray-50 rounded-xl shadow-sm p-6 sm:p-9">
+  <div class="ingredients sm:pr-6 sm:mr-6 mb-12 sm:w-1/3">
+    <h2 class="text-2xl font-bold mb-6">Ingredients</h2>
+    <ul class="pl-0 flex flex-col space-y-4">
+      
+        <li class="list-none pl-0">300g yogurt, preferably Turkish, obviously</li>
+      
+        <li class="list-none pl-0">4 eggs</li>
+      
+        <li class="list-none pl-0">2 cloves of garlic, grounded or minced</li>
+      
+        <li class="list-none pl-0">75g butter</li>
+      
+        <li class="list-none pl-0">2tsp aleppo or chili pepper flakes</li>
+      
+        <li class="list-none pl-0">A few sprigs of dill or parsley, finely chopped</li>
+      
+        <li class="list-none pl-0">Salt and pepper to taste</li>
+      
+    </ul>
+  </div>
+  <div class="instructions pb-6 sm:w-2/3">
+    <h2 class="text-2xl font-bold mb-6">Instructions</h2>
+    <ol class="list-none pl-0 flex flex-col space-y-6">
+      
+        <li class="pl-0">Mix yogurt with garlic and a pinch of salt and stir with a fork. You can also warm the yogurt slightly over low heat using the Bain-marie method.</li>
+      
+        <li class="pl-0">Poach eggs and set aside</li>
+      
+        <li class="pl-0">Heat butter in a saucepan with peppers and stir until butter is melted.</li>
+      
+        <li class="pl-0">Assemble into two plates starting with warm garlic yogurt, poached eggs and chili butter.</li>
+      
+        <li class="pl-0">Garnish with chopped herbs, salt, pepper.</li>
+      
+    </ol>
+  </div>
+</div>
 
-<p>This dish goes perfectly with toasted &lt;%= link_to “sourdough bread”, “_posts/sourdough-bread-guide.md” %&gt;.</p>
+<p>This dish goes perfectly with toasted <a href="/bread/sourdough-bread-guide/">sourdough bread</a>.</p>
 
   </div>
   <div class="text-center mb-12">

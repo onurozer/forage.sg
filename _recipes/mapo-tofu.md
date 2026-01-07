@@ -39,6 +39,6 @@ instructions:
 
 The great thing about mapo tofu is that there is no one style or one taste profile so you can cook it in a few ways with a variety of ingredients that takes your fancy. So when you cook this at home, you don’t have to waste time picking out the vegetables you hate, in my case, bell peppers!
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 Serve with fragrant Jasmine rice or if you’re like me who likes sticky rice, try it over Japanese rice!

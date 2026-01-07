@@ -29,7 +29,7 @@ The original recipe used [Paper Lantern Gin](https://drinkpaperlantern.com), the
 
 This recipe requires lemongrass syrup, a key ingredient that gives the cocktail it’s tropical flavour and aroma. To make it, combine equal parts of white sugar and water with 3-4 thinly sliced lemongrass stalks. Heat it until it starts to simmer, turn off the heat and steep for 15 minutes and strain through a cheesecloth. It will stay fresh in the fridge for a couple of weeks.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 ## Tips & Tricks
 

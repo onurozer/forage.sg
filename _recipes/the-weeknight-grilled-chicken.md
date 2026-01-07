@@ -33,7 +33,7 @@ instructions:
 
 This is the one grilled chicken recipe you’ll ever need. The key to success with this dish is a super hot cast-iron pan and lots of olive oil.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 ## Tips & Tricks
 

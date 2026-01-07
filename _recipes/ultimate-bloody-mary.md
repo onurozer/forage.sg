@@ -26,7 +26,7 @@ The secret ingredient is the pickle juice. It adds a layer of complexity and dep
 
 Combine 200ml vodka –preferably [Russian Standard](http://www.russianstandardvodka.com/)– with 200ml pickle juice, 15 black peppercorns, 3 cloves of garlic, a pinch of salt, a few sprigs of dill and a few splash of hot sauce in a mason jar. Give it a good shake and refrigerate overnight, up to 2 days. Strain through a cheesecloth into a bottle and keep in the fridge for up to a month.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 ## Taking it to the next level
 

@@ -36,7 +36,7 @@ instructions:
 
 The ideal time for this is a Sunday morning, although technically any day would work. The beauty of the recipe is that as far as ingredients are concerned, pretty much anything goes.
 
-<%= render "recipe_details", data: resource.data %>
+{% include _recipe_details.liquid data=page %}
 
 ## Tips & Tricks
 
