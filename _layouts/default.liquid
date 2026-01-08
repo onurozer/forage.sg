@@ -6,20 +6,17 @@
     <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
 
     <meta charset="utf-8" />
-    <title>
-      {%- if page.url == "/" -%}
-        {{ site.title }} | {{ site.description }}
-      {%- else -%}
-        {{ page.title }} | {{ site.title }}
-      {%- endif -%}
-    </title>
+    {% seo %}
 
 
     {% if jekyll.environment == "production" %}
+      <script async src="https://plausible.io/js/pa-q81W8YnL9tT7mR_bQnJhL.js"></script>
+      <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+      </script>
     {% endif %}
-  {% comment %}
-    {% seo %}
-  {% endcomment %}
+
   </head>
   <body class="antialiased bg-white text-gray-800 flex flex-col min-h-screen">
     {% include header.liquid %}

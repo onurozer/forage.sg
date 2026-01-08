@@ -81,6 +81,10 @@ GEM
       svg_optimizer (~> 0.3.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-tailwindcss (0.7.0)
       tailwindcss-ruby
     jekyll-watch (2.2.1)
@@ -236,6 +240,8 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-inline-svg
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-tailwindcss
   standard
 
@@ -276,6 +282,8 @@ CHECKSUMS
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
   jekyll-inline-svg (1.1.5) sha256=1458f9caa9381c8da509e2007e61aeb57ce4f79bb2366dd0cc377527c3b6f8bc
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
+  jekyll-seo-tag (2.8.0) sha256=3f2ed1916d56f14ebfa38e24acde9b7c946df70cb183af2cb5f0598f21ae6818
+  jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218
   jekyll-tailwindcss (0.7.0) sha256=987eac000d0ef5a23b901927a34c9949066be3f7acd9729643e2f6afb4e30adf
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   json (2.18.0) sha256=b10506aee4183f5cf49e0efc48073d7b75843ce3782c68dbeb763351c08fd505

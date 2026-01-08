@@ -8,6 +8,8 @@ author: onurozer
 tags:
   - cheese
   - guide
+seo:
+  type: Recipe
 ---
 
 Cheese plates are great because they are practical, they go perfectly with wine and they’re super tasty. This is the one guide you didn’t know you needed. Here are lessons I've learned over putting together cheese plates on short notice:
