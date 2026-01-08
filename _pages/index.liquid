@@ -7,17 +7,7 @@ title: Home
 <h1 class="text-4xl mb-9 font-extrabold text-center hidden">All Posts</h1>
 
 
-{% assign all_categories = "" | split: "" %}
-{% for recipe in site.recipes %}
-  {% for category in recipe.categories %}
-    {% unless all_categories contains category %}
-      {% assign all_categories = all_categories | push: category %}
-    {% endunless %}
-  {% endfor %}
-{% endfor %}
-
-
-{% for category in all_categories %}
+{% for category in site.data.categories %}
 
   <!-- Category -->
   <div class="px-6 mb-16">
@@ -26,11 +16,14 @@ title: Home
       {{ category }}</h2>
     <!-- Recipe List -->
     <div class="recipe-list grid md:grid-cols-2 xl:grid-cols-3 gap-9">
-      {% for recipe in site.recipes %}
+      {% assign sorted_recipes = site.recipes | sort: "date" | reverse %}
+
+      {% for recipe in sorted_recipes %}
         {% if recipe.categories contains category %}
           {% include _recipe_card.liquid recipe=recipe %}
         {% endif %}
       {% endfor %}
+
     </div>
   </div>
 
