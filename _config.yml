@@ -17,8 +17,8 @@ collections:
 
 timezone: Asia/Singapore
 
-exclude:
-  - README.md
+plugins:
+  - jekyll-sitemap
 
 defaults:
   - scope:
@@ -33,3 +33,6 @@ defaults:
       path: _recipes/
     values:
       layout: recipe
+
+exclude:
+  - README.md
