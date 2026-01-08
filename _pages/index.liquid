@@ -16,33 +16,22 @@ title: Home
   {% endfor %}
 {% endfor %}
 
-{{ all_categories }}
-
-{% comment %}Display each category and its recipes{% endcomment %}
 
 {% for category in all_categories %}
 
   <!-- Category -->
   <div class="px-6 mb-16">
     <h2 class="text-3xl mb-9 font-extrabold text-center">
-      <a id="{{ category[0] }}"></a>
-      {{ category[0] }}</h2>
+      <a id="{{ category }}"></a>
+      {{ category }}</h2>
     <!-- Recipe List -->
     <div class="recipe-list grid md:grid-cols-2 xl:grid-cols-3 gap-9">
-      {% for recipe in category[1] %}
-        {% include recipe_card.html recipe=recipe %}
+      {% for recipe in site.recipes %}
+        {% if recipe.categories contains category %}
+          {% include _recipe_card.liquid recipe=recipe %}
+        {% endif %}
       {% endfor %}
     </div>
   </div>
 
 {% endfor %}
-
-<hr>
-<ul class="mb-8">
-
-  {% for recipe in site.recipes %}
-    <li class="pl-3 ml-8 list-disc">
-      <a href="{{ recipe.url }}" class="">{{ recipe.title }}</a>
-    </li>
-  {% endfor %}
-</ul>

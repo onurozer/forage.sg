@@ -36,7 +36,7 @@ _Another cheese plate put together on short notice with local produce from nearb
 
 ## Crackers & Bread
 
-The perfect companion to cheese is the [olive oil sourdough crackers]({% link _recipes/sourdough-discard-olive-oil-crackers.md %}), but the good old [sourdough bread]({% link _recipes/sourdough-bread-guide.md %}) would work too. Just don’t go overboard with the bread (ba dum tss 🥁).
+The perfect companion to cheese is the [olive oil sourdough crackers]({% link _recipes/sourdough-olive-oil-crackers.md %}), but the good old [sourdough bread]({% link _recipes/sourdough-bread-guide.md %}) would work too. Just don’t go overboard with the bread (ba dum tss 🥁).
 
 ## Extras
 

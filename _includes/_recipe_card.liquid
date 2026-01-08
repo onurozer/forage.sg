@@ -1,14 +1,15 @@
 <article class="recipe-card w-full bg-white">
-  <a href="<%= recipe.relative_url %>">
-    <!-- Feature Image -->
-    <img class="w-full rounded-lg shadow-sm" 
-          src="<%= cloudinary_url recipe.data.cloudinary_id, :small  %>"
-          alt="<%= recipe.data.title %>"
-          width="600"
-          height="85" />
+  <a href="{% link _recipes/{{ recipe.slug }}.md %}"></a>
+      <!-- Feature Image -->
+    <img
+      class="w-full rounded-lg shadow-sm"
+      src="/assets/images/recipes/{{ recipe.slug }}.jpg"
+      alt="{{ recipe.title }}"
+      width="600"
+      height="85" />
     <div class="p-3">
-      <h3 class="font-extrabold font-heading text-xl"><%= recipe.data.title %></h3>
-      <p class="tagline"><%= recipe.data.description %></p>
+      <h3 class="font-extrabold font-heading text-xl">{{ recipe.title }}</h3>
+      <p class="tagline">{{ recipe.description }}</p>
     </div>
   </a>
 </article>
