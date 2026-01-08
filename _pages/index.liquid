@@ -1,0 +1,30 @@
+---
+permalink: /
+title: Home
+---
+
+
+<h1 class="text-4xl mb-9 font-extrabold text-center hidden">All Posts</h1>
+
+
+{% for category in site.data.categories %}
+
+  <!-- Category -->
+  <div class="px-6 mb-16">
+    <h2 class="text-3xl mb-9 font-extrabold text-center">
+      <a id="{{ category }}"></a>
+      {{ category }}</h2>
+    <!-- Recipe List -->
+    <div class="recipe-list grid md:grid-cols-2 xl:grid-cols-3 gap-9">
+      {% assign sorted_recipes = site.recipes | sort: "date" | reverse %}
+
+      {% for recipe in sorted_recipes %}
+        {% if recipe.categories contains category %}
+          {% include _recipe_card.liquid recipe=recipe %}
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+
+{% endfor %}

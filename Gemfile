@@ -1,16 +1,14 @@
 source "https://rubygems.org"
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-gem "bridgetown", "~> 1.3"
+ruby file: ".ruby-version"
 
-group :bridgetown_plugins do
-  gem "bridgetown-cloudinary", "~> 2.1"
-  gem "bridgetown-seo-tag", "~> 6.0"
-  # gem "bridgetown-sitemap"
-  # gem "bridgetown-plausible"
-end
+gem "jekyll"
+gem "standard"
 
-group :development do
-  gem "puma", "< 7"
-  gem "standard"
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-inline-svg"
+  # gem "jekyll-seo-tag"
+  # gem "jekyll-sitemap"
+  gem "jekyll-tailwindcss"
 end

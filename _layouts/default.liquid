@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+
+    <meta charset="utf-8" />
+    <title>
+      {%- if page.url == "/" -%}
+        {{ site.title }} | {{ site.description }}
+      {%- else -%}
+        {{ page.title }} | {{ site.title }}
+      {%- endif -%}
+    </title>
+
+
+    {% if jekyll.environment == "production" %}
+    {% endif %}
+  {% comment %}
+    {% seo %}
+  {% endcomment %}
+  </head>
+  <body class="antialiased bg-white text-gray-800 flex flex-col min-h-screen">
+    {% include header.liquid %}
+    <!-- Main -->
+    <main class=" max-w-7xl mx-auto grow">
+      {{ content }}
+    </main>
+    {% include footer.liquid %}
+  </body>
+</html>

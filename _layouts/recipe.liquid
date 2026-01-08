@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<article>
+    <!-- Image -->
+  <img
+    src="/assets/images/recipes/{{ page.slug }}.jpg"
+    alt="{{ page.title }}"
+    width="1600"
+    height="900">
+  <!-- Header -->
+  <header class="text-center py-12 px-6">
+    <!-- Metadata -->
+    <p class="meta text-sm text-gray-500 mb-3">
+      {% for category in page.categories %}
+        <span class="category text-pink-500">
+          <a href="/#{{ category }}">{{ category }}</a>
+        </span>
+        &bull;
+      {% endfor %}
+      <time class="" datetime="{{ page.date | date: " %Y-%d-%m" }}">
+        {{ page.date | date: "%B %Y" }}
+      </time>
+      {% if page.author %}
+        &bull;
+        <span class="author">{{ site.data.authors[page.author].name }}</span>
+      {% endif %}
+    </p>
+    <!-- Title and Subtitle -->
+    <h1 class="font-heading text-4xl sm:text-5xl mb-3 font-black">
+      {{ page.title }}
+    </h1>
+    <p class="tagline text-2xl mx-auto mb-3">
+      {{ page.description }}
+    </p>
+  </header>
+  <!-- Content -->
+  <div class="max-w-4xl mx-auto prose prose-lg prose-em:text-sm prose-em:leading-snug text-gray-800 prose-pink prose-a:font-normal px-5 prose-img:mb-0 mb-12">
+    {{ content }}
+  </div>
+  <div class="text-center mb-12">
+    <a href="{{ site.url }}" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">← Back</a>
+    <a href="#" class="inline-block bg-white text-gray-800 border border-gray-800 px-4 py-2">↑ Top</a>
+  </div>
+</article>

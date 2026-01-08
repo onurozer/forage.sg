@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* @plugin "@tailwindcss/typography";
+
+@layer components {
+  .prose p,
+  .prose h2,
+  .prose h3,
+  .prose ul,
+  .prose ol,
+  .prose table,
+  .prose blockquote {
+    @apply max-w-2xl mx-auto;
+  }
+  .instructions ol {
+    counter-reset: item;
+  }
+  .instructions ol li:before {
+    white-space: pre;
+    @apply font-bold;
+    content: "Step " counter(item) "\A";
+    counter-increment: item;
+  }
+} */

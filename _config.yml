@@ -1,0 +1,35 @@
+url: "https://forage.sg" # the base hostname & protocol for your site, e.g. http://example.com
+title: "Forage"
+description: A playground for culinary experiments.
+tagline: In search of the best food, cocktails and travel
+baseurl: ""
+
+permalink: /:title/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  recipes:
+    output: true
+    permalink: /:categories/:name/
+
+
+timezone: Asia/Singapore
+
+exclude:
+  - README.md
+
+defaults:
+  # - scope:
+  #     path: ""
+  #   values:
+  #     image: /assets/images/open-graph/default.png
+  - scope:
+      path: _pages/
+    values:
+      layout: default
+  - scope:
+      path: _recipes/
+    values:
+      layout: recipe
