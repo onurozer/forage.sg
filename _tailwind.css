@@ -22,9 +22,3 @@
     counter-increment: item;
   }
 }
-
-@layer utilities {
-  .font-heading {
-    /* @apply font-bold; */
-  }
-}
