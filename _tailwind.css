@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@plugin "@tailwindcss/typography";
+/* @plugin "@tailwindcss/typography";
 
 @layer components {
   .prose p,
@@ -21,4 +21,4 @@
     content: "Step " counter(item) "\A";
     counter-increment: item;
   }
-}
+} */
