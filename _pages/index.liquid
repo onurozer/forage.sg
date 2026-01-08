@@ -6,9 +6,21 @@ title: Home
 
 <h1 class="text-4xl mb-9 font-extrabold text-center hidden">All Posts</h1>
 
-{{ site.categories }}
 
-  {% for category in site.categories %}
+{% assign all_categories = "" | split: "" %}
+{% for recipe in site.recipes %}
+  {% for category in recipe.categories %}
+    {% unless all_categories contains category %}
+      {% assign all_categories = all_categories | push: category %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+{{ all_categories }}
+
+{% comment %}Display each category and its recipes{% endcomment %}
+
+{% for category in all_categories %}
 
   <!-- Category -->
   <div class="px-6 mb-16">
@@ -24,3 +36,13 @@ title: Home
   </div>
 
 {% endfor %}
+
+<hr>
+<ul class="mb-8">
+
+  {% for recipe in site.recipes %}
+    <li class="pl-3 ml-8 list-disc">
+      <a href="{{ recipe.url }}" class="">{{ recipe.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
