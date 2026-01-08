@@ -1,8 +1,26 @@
 ---
-title: "Happy Jekylling!"
 permalink: /
+title: Home
 ---
 
 
-## You're ready to go!
-Start developing your Jekyll website.
+<h1 class="text-4xl mb-9 font-extrabold text-center hidden">All Posts</h1>
+
+{{ site.categories }}
+
+  {% for category in site.categories %}
+
+  <!-- Category -->
+  <div class="px-6 mb-16">
+    <h2 class="text-3xl mb-9 font-extrabold text-center">
+      <a id="{{ category[0] }}"></a>
+      {{ category[0] }}</h2>
+    <!-- Recipe List -->
+    <div class="recipe-list grid md:grid-cols-2 xl:grid-cols-3 gap-9">
+      {% for recipe in category[1] %}
+        {% include recipe_card.html recipe=recipe %}
+      {% endfor %}
+    </div>
+  </div>
+
+{% endfor %}
