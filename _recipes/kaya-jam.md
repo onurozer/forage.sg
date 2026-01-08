@@ -2,6 +2,7 @@
 date: 2020-06-25
 title: Kaya Jam
 slug: kaya-jam
+image: /assets/images/recipes/kaya-jam.jpg
 description: The perfect marriage of pandan, coconut cream, eggs and sugar
 servings: 1 jar
 duration: 1 hour

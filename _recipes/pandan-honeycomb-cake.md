@@ -2,6 +2,7 @@
 date: 2020-05-11
 title: Pandan Honeycomb Cake
 slug: pandan-honeycomb-cake
+image: /assets/images/recipes/pandan-honeycomb-cake.jpg
 description: Uniquely chewy and popular Vietnamese cake
 categories: Cakes
 author: audreychong

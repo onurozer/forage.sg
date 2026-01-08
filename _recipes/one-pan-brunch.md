@@ -2,6 +2,7 @@
 date: 2020-05-18
 title: One-Pan Brunch
 slug: one-pan-brunch
+image: /assets/images/recipes/one-pan-brunch.jpg
 description: The perfect brunch for the hungry and the lazy.
 categories: Brunch
 author: onurozer

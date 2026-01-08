@@ -2,6 +2,7 @@
 date: 2020-06-01
 title: Espresso Martini
 slug: espresso-martini
+image: /assets/images/recipes/espresso-martini.jpg
 description: The art of waking up and getting tipsy, simultaneously.
 categories: Cocktails
 author: onurozer

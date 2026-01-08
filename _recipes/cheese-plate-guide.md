@@ -2,6 +2,7 @@
 date: 2020-07-08
 title: Cheese Plate Guide
 slug: cheese-plate-guide
+image: /assets/images/recipes/cheese-plate-guide.jpg
 description: Battle-tested lessons on putting together ultimate cheese plates.
 categories: Food
 author: onurozer

@@ -2,6 +2,7 @@
 date: 2020-03-08
 title: Negroni
 slug: negroni
+image: /assets/images/recipes/negroni.jpg
 description: Easy to make, endless variations and perfect for any time of the day.
 categories: Cocktails
 author: onurozer

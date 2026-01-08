@@ -2,6 +2,7 @@
 date: 2020-06-17
 title: Holiday in Cambodia
 slug: holiday-in-cambodia
+image: /assets/images/recipes/holiday-in-cambodia.jpg
 description: Tropical flavour-bomb invented in Singapore
 categories: Cocktails
 author: onurozer

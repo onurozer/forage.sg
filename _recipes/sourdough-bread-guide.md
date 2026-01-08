@@ -2,6 +2,7 @@
 date: 2020-06-09
 title: Sourdough Bread Guide
 slug: sourdough-bread-guide
+image: /assets/images/recipes/sourdough-bread-guide.jpg
 description: A freshly baked sourdough bread is a thing of beauty
 categories: Bread
 author: onurozer

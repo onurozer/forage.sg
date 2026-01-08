@@ -2,6 +2,7 @@
 date: 2018-02-04
 title: Martini
 slug: martini
+image: /assets/images/recipes/martini.jpg
 description: The best cocktail in the history of cocktails, ever.
 categories: Cocktails
 author: onurozer
