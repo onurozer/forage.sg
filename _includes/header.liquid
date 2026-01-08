@@ -1,9 +1,15 @@
-<header>
-  <nav>
-    <div class="">
-      <a href="/" class="{% if page.slug == "index" %}font-bold{% endif %}">Home</a>
-      <a href="/recipes" class="{% if page.slug == "recipes" or page.layout == "recipe" %}font-bold{% endif %}">Recipes</a>
-      <a href="/about" class="{% if page.slug == "about" %}font-bold{% endif %}">About</a>
+<!-- Header -->
+<header class="py-9 max-w-7xl mx-auto text-center">
+  <!-- Logo -->
+  <a href="{{site.baseurl}}/" class="block">
+    <div class="flex justify-center mb-1">
+      <img
+        src="/assets/images/logo-light.svg"
+        alt="{{ site.title }}"
+        class="w-36"
+        width="144"
+        height="52" />
     </div>
-  </nav>
+  </a>
+  <p class="text-lg px-6">{{ site.description }}</p>
 </header>
